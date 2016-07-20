@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\studio_space\yunsupply\commonlib\res"/><source path="E:\studio_space\yunsupply\commonlib\build\generated\res\rs\release"/><source path="E:\studio_space\yunsupply\commonlib\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="E:\studio_space\yunsupply\commonlib\build-types\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\studio_space\yunsupply\commonlib\res"><file name="popuwindow_in_style" path="E:\studio_space\yunsupply\commonlib\res\anim\popuwindow_in_style.xml" qualifiers="" type="anim"/><file name="popuwindow_out_style" path="E:\studio_space\yunsupply\commonlib\res\anim\popuwindow_out_style.xml" qualifiers="" type="anim"/><file name="public_rotate_anim" path="E:\studio_space\yunsupply\commonlib\res\anim\public_rotate_anim.xml" qualifiers="" type="anim"/><file name="push_bottom_in" path="E:\studio_space\yunsupply\commonlib\res\anim\push_bottom_in.xml" qualifiers="" type="anim"/><file name="push_bottom_out" path="E:\studio_space\yunsupply\commonlib\res\anim\push_bottom_out.xml" qualifiers="" type="anim"/><file name="spinner" path="E:\studio_space\yunsupply\commonlib\res\anim\spinner.xml" qualifiers="" type="anim"/><file name="voicewave" path="E:\studio_space\yunsupply\commonlib\res\anim\voicewave.xml" qualifiers="" type="anim"/><file name="btn_default_normal" path="E:\studio_space\yunsupply\commonlib\res\drawable\btn_default_normal.9.png" qualifiers="" type="drawable"/><file name="btn_default_normal_disable" path="E:\studio_space\yunsupply\commonlib\res\drawable\btn_default_normal_disable.9.png" qualifiers="" type="drawable"/><file name="btn_default_normal_disable_focused" path="E:\studio_space\yunsupply\commonlib\res\drawable\btn_default_normal_disable_focused.9.png" qualifiers="" type="drawable"/><file name="btn_default_pressed" path="E:\studio_space\yunsupply\commonlib\res\drawable\btn_default_pressed.9.png" qualifiers="" type="drawable"/><file name="btn_default_selected" path="E:\studio_space\yunsupply\commonlib\res\drawable\btn_default_selected.9.png" qualifiers="" type="drawable"/><file name="dialog_basic_shape" path="E:\studio_space\yunsupply\commonlib\res\drawable\dialog_basic_shape.xml" qualifiers="" type="drawable"/><file name="divider_dark_shape" path="E:\studio_space\yunsupply\commonlib\res\drawable\divider_dark_shape.xml" qualifiers="" type="drawable"/><file name="divider_green_hor" path="E:\studio_space\yunsupply\commonlib\res\drawable\divider_green_hor.xml" qualifiers="" type="drawable"/><file name="divider_light_shape" path="E:\studio_space\yunsupply\commonlib\res\drawable\divider_light_shape.xml" qualifiers="" type="drawable"/><file name="divider_line_vertical" path="E:\studio_space\yunsupply\commonlib\res\drawable\divider_line_vertical.xml" qualifiers="" type="drawable"/><file name="divider_red_hor" path="E:\studio_space\yunsupply\commonlib\res\drawable\divider_red_hor.xml" qualifiers="" type="drawable"/><file name="enhance_list_arrow" path="E:\studio_space\yunsupply\commonlib\res\drawable\enhance_list_arrow.png" qualifiers="" type="drawable"/><file name="gray_corner_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable\gray_corner_bg.xml" qualifiers="" type="drawable"/><file name="half_transparent_bg_shape" path="E:\studio_space\yunsupply\commonlib\res\drawable\half_transparent_bg_shape.xml" qualifiers="" type="drawable"/><file name="item_coner_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable\item_coner_bg.xml" qualifiers="" type="drawable"/><file name="list_corner_item_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\list_corner_item_selector.xml" qualifiers="" type="drawable"/><file name="message_blue_circle_shape" path="E:\studio_space\yunsupply\commonlib\res\drawable\message_blue_circle_shape.xml" qualifiers="" type="drawable"/><file name="message_gray_circle_shape" path="E:\studio_space\yunsupply\commonlib\res\drawable\message_gray_circle_shape.xml" qualifiers="" type="drawable"/><file name="next" path="E:\studio_space\yunsupply\commonlib\res\drawable\next.xml" qualifiers="" type="drawable"/><file name="phone_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\phone_selector.xml" qualifiers="" type="drawable"/><file name="ratingbar" path="E:\studio_space\yunsupply\commonlib\res\drawable\ratingbar.xml" qualifiers="" type="drawable"/><file name="ratingbar_small" path="E:\studio_space\yunsupply\commonlib\res\drawable\ratingbar_small.xml" qualifiers="" type="drawable"/><file name="selector_blue_corner" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_blue_corner.xml" qualifiers="" type="drawable"/><file name="selector_check" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_check.xml" qualifiers="" type="drawable"/><file name="selector_clickable_text" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_clickable_text.xml" qualifiers="" type="drawable"/><file name="selector_edit_gray_maincolor" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_edit_gray_maincolor.xml" qualifiers="" type="drawable"/><file name="selector_green_corner" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_green_corner.xml" qualifiers="" type="drawable"/><file name="selector_list_item" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_list_item.xml" qualifiers="" type="drawable"/><file name="selector_maincolor_corner" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_maincolor_corner.xml" qualifiers="" type="drawable"/><file name="selector_orange_corner" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_orange_corner.xml" qualifiers="" type="drawable"/><file name="selector_red_button" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_red_button.xml" qualifiers="" type="drawable"/><file name="selector_red_corner" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_red_corner.xml" qualifiers="" type="drawable"/><file name="selector_text_blue_button" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_text_blue_button.xml" qualifiers="" type="drawable"/><file name="selector_text_button" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_text_button.xml" qualifiers="" type="drawable"/><file name="selector_text_color_tab_blue" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_text_color_tab_blue.xml" qualifiers="" type="drawable"/><file name="selector_text_color_tab_blue_black" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_text_color_tab_blue_black.xml" qualifiers="" type="drawable"/><file name="selector_text_color_tab_green" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_text_color_tab_green.xml" qualifiers="" type="drawable"/><file name="selector_text_color_tab_green_gray" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_text_color_tab_green_gray.xml" qualifiers="" type="drawable"/><file name="selector_text_color_tab_green_white" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_text_color_tab_green_white.xml" qualifiers="" type="drawable"/><file name="selector_text_color_white" path="E:\studio_space\yunsupply\commonlib\res\drawable\selector_text_color_white.xml" qualifiers="" type="drawable"/><file name="shape_white_corner_middle" path="E:\studio_space\yunsupply\commonlib\res\drawable\shape_white_corner_middle.xml" qualifiers="" type="drawable"/><file name="transparent_bg_shape" path="E:\studio_space\yunsupply\commonlib\res\drawable\transparent_bg_shape.xml" qualifiers="" type="drawable"/><file name="white_bg_selected_shape" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_bg_selected_shape.xml" qualifiers="" type="drawable"/><file name="white_bg_shape" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_bg_shape.xml" qualifiers="" type="drawable"/><file name="white_bottom_corner_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_bottom_corner_selector.xml" qualifiers="" type="drawable"/><file name="white_corner_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_corner_bg.xml" qualifiers="" type="drawable"/><file name="white_corner_left_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_corner_left_selector.xml" qualifiers="" type="drawable"/><file name="white_corner_middle_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_corner_middle_selector.xml" qualifiers="" type="drawable"/><file name="white_corner_right_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_corner_right_selector.xml" qualifiers="" type="drawable"/><file name="white_corner_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_corner_selector.xml" qualifiers="" type="drawable"/><file name="white_middle_corner_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_middle_corner_selector.xml" qualifiers="" type="drawable"/><file name="white_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_selector.xml" qualifiers="" type="drawable"/><file name="white_top_corner_selector" path="E:\studio_space\yunsupply\commonlib\res\drawable\white_top_corner_selector.xml" qualifiers="" type="drawable"/><file name="zxing_mm_title_back_btn" path="E:\studio_space\yunsupply\commonlib\res\drawable\zxing_mm_title_back_btn.xml" qualifiers="" type="drawable"/><file name="add_bg_none" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\add_bg_none.png" qualifiers="hdpi-v4" type="drawable"/><file name="alert" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\alert.png" qualifiers="hdpi-v4" type="drawable"/><file name="alert_red" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\alert_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="checked" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\checked.png" qualifiers="hdpi-v4" type="drawable"/><file name="clear_type" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\clear_type.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_img_bkg" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\default_img_bkg.png" qualifiers="hdpi-v4" type="drawable"/><file name="enhance_list_arrow" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\enhance_list_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="exception" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\exception.png" qualifiers="hdpi-v4" type="drawable"/><file name="flow_four" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\flow_four.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="flow_one" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\flow_one.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="flow_three" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\flow_three.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="flow_two" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\flow_two.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="indicator_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\indicator_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="is_press" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\is_press.png" qualifiers="hdpi-v4" type="drawable"/><file name="location" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\location.png" qualifiers="hdpi-v4" type="drawable"/><file name="message_status_has_read" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\message_status_has_read.png" qualifiers="hdpi-v4" type="drawable"/><file name="message_status_not_read" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\message_status_not_read.png" qualifiers="hdpi-v4" type="drawable"/><file name="minus" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\minus.png" qualifiers="hdpi-v4" type="drawable"/><file name="next_normal" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\next_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="next_selected" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\next_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="no_data" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\no_data.png" qualifiers="hdpi-v4" type="drawable"/><file name="no_message" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\no_message.png" qualifiers="hdpi-v4" type="drawable"/><file name="no_net" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\no_net.png" qualifiers="hdpi-v4" type="drawable"/><file name="no_order_data" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\no_order_data.png" qualifiers="hdpi-v4" type="drawable"/><file name="order_finish" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\order_finish.png" qualifiers="hdpi-v4" type="drawable"/><file name="phone" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\phone.png" qualifiers="hdpi-v4" type="drawable"/><file name="phone_selected" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\phone_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="phone_unable" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\phone_unable.png" qualifiers="hdpi-v4" type="drawable"/><file name="plus" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\plus.png" qualifiers="hdpi-v4" type="drawable"/><file name="pwd_blue_disable" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\pwd_blue_disable.png" qualifiers="hdpi-v4" type="drawable"/><file name="pwd_blue_enable" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\pwd_blue_enable.png" qualifiers="hdpi-v4" type="drawable"/><file name="pwd_disable" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\pwd_disable.png" qualifiers="hdpi-v4" type="drawable"/><file name="pwd_disable_title" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\pwd_disable_title.png" qualifiers="hdpi-v4" type="drawable"/><file name="pwd_enable" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\pwd_enable.png" qualifiers="hdpi-v4" type="drawable"/><file name="pwd_enable_title" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\pwd_enable_title.png" qualifiers="hdpi-v4" type="drawable"/><file name="red_dot" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\red_dot.png" qualifiers="hdpi-v4" type="drawable"/><file name="refresh_success" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\refresh_success.png" qualifiers="hdpi-v4" type="drawable"/><file name="remind" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\remind.png" qualifiers="hdpi-v4" type="drawable"/><file name="rule" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\rule.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_code_back" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\scan_code_back.png" qualifiers="hdpi-v4" type="drawable"/><file name="scan_code_white" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\scan_code_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="shop_car" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\shop_car.png" qualifiers="hdpi-v4" type="drawable"/><file name="sign_location" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\sign_location.png" qualifiers="hdpi-v4" type="drawable"/><file name="sign_position" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\sign_position.png" qualifiers="hdpi-v4" type="drawable"/><file name="sign_shop_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\sign_shop_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="sign_shop_detail_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\sign_shop_detail_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_big_all" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_big_all.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_big_half" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_big_half.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_big_non" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_big_non.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_big_off" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_big_off.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_big_on" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_big_on.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_small_all" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_small_all.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_small_half" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_small_half.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_small_non" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_small_non.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_small_off" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_small_off.png" qualifiers="hdpi-v4" type="drawable"/><file name="star_small_on" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\star_small_on.png" qualifiers="hdpi-v4" type="drawable"/><file name="subtract_bg_none" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\subtract_bg_none.png" qualifiers="hdpi-v4" type="drawable"/><file name="time" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\time.png" qualifiers="hdpi-v4" type="drawable"/><file name="unchecked" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\unchecked.png" qualifiers="hdpi-v4" type="drawable"/><file name="voice" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\voice.png" qualifiers="hdpi-v4" type="drawable"/><file name="voice_wave_1" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\voice_wave_1.png" qualifiers="hdpi-v4" type="drawable"/><file name="voice_wave_2" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\voice_wave_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="voice_wave_3" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\voice_wave_3.png" qualifiers="hdpi-v4" type="drawable"/><file name="voice_wave_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\voice_wave_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="zxing_mmtitle_bg_alpha" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\zxing_mmtitle_bg_alpha.9.PNG" qualifiers="hdpi-v4" type="drawable"/><file name="zxing_mm_title_back_focused" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\zxing_mm_title_back_focused.9.PNG" qualifiers="hdpi-v4" type="drawable"/><file name="zxing_mm_title_back_normal" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\zxing_mm_title_back_normal.9.PNG" qualifiers="hdpi-v4" type="drawable"/><file name="zxing_mm_title_back_pressed" path="E:\studio_space\yunsupply\commonlib\res\drawable-hdpi\zxing_mm_title_back_pressed.9.PNG" qualifiers="hdpi-v4" type="drawable"/><file name="enhance_list_arrow" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\enhance_list_arrow.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="progress_hud_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\progress_hud_bg.xml" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_0" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_0.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_1" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_1.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_10" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_10.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_11" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_11.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_2" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_2.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_3" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_3.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_4" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_4.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_5" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_5.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_6" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_6.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_7" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_7.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_8" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_8.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_9" path="E:\studio_space\yunsupply\commonlib\res\drawable-mdpi\spinner_9.png" qualifiers="mdpi-v4" type="drawable"/><file name="add_bg_none" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\add_bg_none.png" qualifiers="xhdpi-v4" type="drawable"/><file name="alert" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\alert.png" qualifiers="xhdpi-v4" type="drawable"/><file name="alert_red" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\alert_red.png" qualifiers="xhdpi-v4" type="drawable"/><file name="checked" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\checked.png" qualifiers="xhdpi-v4" type="drawable"/><file name="clear_type" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\clear_type.png" qualifiers="xhdpi-v4" type="drawable"/><file name="day_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\day_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="default_img_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\default_img_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="default_img_bkg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\default_img_bkg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="exception" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\exception.png" qualifiers="xhdpi-v4" type="drawable"/><file name="flow_four" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\flow_four.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="flow_one" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\flow_one.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="flow_three" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\flow_three.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="flow_two" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\flow_two.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="hour_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\hour_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="is_press" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\is_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading_view_public" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\loading_view_public.png" qualifiers="xhdpi-v4" type="drawable"/><file name="location" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\location.png" qualifiers="xhdpi-v4" type="drawable"/><file name="message_status_has_read" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\message_status_has_read.png" qualifiers="xhdpi-v4" type="drawable"/><file name="message_status_not_read" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\message_status_not_read.png" qualifiers="xhdpi-v4" type="drawable"/><file name="minus" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\minus.png" qualifiers="xhdpi-v4" type="drawable"/><file name="minute_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\minute_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="month_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\month_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="next_default" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\next_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="next_normal" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\next_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="next_selected" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\next_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="no_data" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\no_data.png" qualifiers="xhdpi-v4" type="drawable"/><file name="no_message" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\no_message.png" qualifiers="xhdpi-v4" type="drawable"/><file name="no_net" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\no_net.png" qualifiers="xhdpi-v4" type="drawable"/><file name="no_order_data" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\no_order_data.png" qualifiers="xhdpi-v4" type="drawable"/><file name="order_finish" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\order_finish.png" qualifiers="xhdpi-v4" type="drawable"/><file name="phone" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\phone.png" qualifiers="xhdpi-v4" type="drawable"/><file name="phone_selected" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\phone_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="phone_unable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\phone_unable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="picker_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\picker_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="plus" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\plus.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pwd_blue_disable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\pwd_blue_disable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pwd_blue_enable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\pwd_blue_enable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pwd_disable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\pwd_disable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pwd_disable_title" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\pwd_disable_title.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pwd_enable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\pwd_enable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pwd_enable_title" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\pwd_enable_title.png" qualifiers="xhdpi-v4" type="drawable"/><file name="red_dot" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\red_dot.png" qualifiers="xhdpi-v4" type="drawable"/><file name="refresh_success" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\refresh_success.png" qualifiers="xhdpi-v4" type="drawable"/><file name="remind" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\remind.png" qualifiers="xhdpi-v4" type="drawable"/><file name="rule" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\rule.png" qualifiers="xhdpi-v4" type="drawable"/><file name="scan_code_back" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\scan_code_back.png" qualifiers="xhdpi-v4" type="drawable"/><file name="scan_code_white" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\scan_code_white.png" qualifiers="xhdpi-v4" type="drawable"/><file name="shop_car" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\shop_car.png" qualifiers="xhdpi-v4" type="drawable"/><file name="sign_location" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\sign_location.png" qualifiers="xhdpi-v4" type="drawable"/><file name="sign_position" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\sign_position.png" qualifiers="xhdpi-v4" type="drawable"/><file name="sign_shop_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\sign_shop_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="sign_shop_detail_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\sign_shop_detail_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="subtract_bg_none" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\subtract_bg_none.png" qualifiers="xhdpi-v4" type="drawable"/><file name="time" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\time.png" qualifiers="xhdpi-v4" type="drawable"/><file name="unchecked" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\unchecked.png" qualifiers="xhdpi-v4" type="drawable"/><file name="voice" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\voice.png" qualifiers="xhdpi-v4" type="drawable"/><file name="voice_wave_1" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\voice_wave_1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="voice_wave_2" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\voice_wave_2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="voice_wave_3" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\voice_wave_3.png" qualifiers="xhdpi-v4" type="drawable"/><file name="voice_wave_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\voice_wave_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="year_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\year_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="yyss0_2" path="E:\studio_space\yunsupply\commonlib\res\drawable-xhdpi\yyss0_2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="add_bg_none" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\add_bg_none.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="alert" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\alert.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="alert_red" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\alert_red.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="checked" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\checked.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="clear_type" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\clear_type.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="default_img_bkg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\default_img_bkg.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="exception" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\exception.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="flow_four" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\flow_four.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="flow_one" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\flow_one.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="flow_three" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\flow_three.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="flow_two" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\flow_two.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="img_mylocation" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\img_mylocation.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="is_press" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\is_press.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="location" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\location.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="message_status_has_read" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\message_status_has_read.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="message_status_not_read" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\message_status_not_read.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="minus" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\minus.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="next_normal" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\next_normal.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="next_selected" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\next_selected.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="no_data" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\no_data.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="no_message" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\no_message.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="no_net" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\no_net.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="no_order_data" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\no_order_data.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="order_finish" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\order_finish.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="phone" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\phone.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="phone_selected" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\phone_selected.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="phone_unable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\phone_unable.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="plus" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\plus.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="pwd_blue_disable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\pwd_blue_disable.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="pwd_blue_enable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\pwd_blue_enable.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="pwd_disable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\pwd_disable.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="pwd_disable_title" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\pwd_disable_title.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="pwd_enable" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\pwd_enable.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="pwd_enable_title" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\pwd_enable_title.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="red_dot" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\red_dot.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="remind" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\remind.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="rule" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\rule.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="scan_code_back" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\scan_code_back.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="scan_code_white" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\scan_code_white.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="shop_car" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\shop_car.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="sign_location" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\sign_location.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="sign_shop_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\sign_shop_bg.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="sign_shop_detail_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\sign_shop_detail_bg.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="subtract_bg_none" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\subtract_bg_none.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="time" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\time.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="unchecked" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\unchecked.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="voice" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\voice.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="voice_wave_1" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\voice_wave_1.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="voice_wave_2" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\voice_wave_2.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="voice_wave_3" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\voice_wave_3.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="voice_wave_bg" path="E:\studio_space\yunsupply\commonlib\res\drawable-xxhdpi\voice_wave_bg.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_bottom" path="E:\studio_space\yunsupply\commonlib\res\layout\activity_bottom.xml" qualifiers="" type="layout"/><file name="activity_bottom_date_picker" path="E:\studio_space\yunsupply\commonlib\res\layout\activity_bottom_date_picker.xml" qualifiers="" type="layout"/><file name="activity_bottom_picker" path="E:\studio_space\yunsupply\commonlib\res\layout\activity_bottom_picker.xml" qualifiers="" type="layout"/><file name="activity_take_picture" path="E:\studio_space\yunsupply\commonlib\res\layout\activity_take_picture.xml" qualifiers="" type="layout"/><file name="bottom_dialog" path="E:\studio_space\yunsupply\commonlib\res\layout\bottom_dialog.xml" qualifiers="" type="layout"/><file name="common_dialog" path="E:\studio_space\yunsupply\commonlib\res\layout\common_dialog.xml" qualifiers="" type="layout"/><file name="common_toast" path="E:\studio_space\yunsupply\commonlib\res\layout\common_toast.xml" qualifiers="" type="layout"/><file name="dialog_image_text" path="E:\studio_space\yunsupply\commonlib\res\layout\dialog_image_text.xml" qualifiers="" type="layout"/><file name="dialog_update_apk" path="E:\studio_space\yunsupply\commonlib\res\layout\dialog_update_apk.xml" qualifiers="" type="layout"/><file name="enhance_list_footer" path="E:\studio_space\yunsupply\commonlib\res\layout\enhance_list_footer.xml" qualifiers="" type="layout"/><file name="enhance_list_header" path="E:\studio_space\yunsupply\commonlib\res\layout\enhance_list_header.xml" qualifiers="" type="layout"/><file name="horizontal_list_item" path="E:\studio_space\yunsupply\commonlib\res\layout\horizontal_list_item.xml" qualifiers="" type="layout"/><file name="load_progress_layout" path="E:\studio_space\yunsupply\commonlib\res\layout\load_progress_layout.xml" qualifiers="" type="layout"/><file name="notify_version_upgrade" path="E:\studio_space\yunsupply\commonlib\res\layout\notify_version_upgrade.xml" qualifiers="" type="layout"/><file name="number_picker_with_selector_wheel" path="E:\studio_space\yunsupply\commonlib\res\layout\number_picker_with_selector_wheel.xml" qualifiers="" type="layout"/><file name="progress_hud" path="E:\studio_space\yunsupply\commonlib\res\layout\progress_hud.xml" qualifiers="" type="layout"/><file name="tab_indicator_item" path="E:\studio_space\yunsupply\commonlib\res\layout\tab_indicator_item.xml" qualifiers="" type="layout"/><file name="tab_indicator_layout" path="E:\studio_space\yunsupply\commonlib\res\layout\tab_indicator_layout.xml" qualifiers="" type="layout"/><file name="tab_indicator_line" path="E:\studio_space\yunsupply\commonlib\res\layout\tab_indicator_line.xml" qualifiers="" type="layout"/><file name="view_date_picker" path="E:\studio_space\yunsupply\commonlib\res\layout\view_date_picker.xml" qualifiers="" type="layout"/><file name="view_empty_info" path="E:\studio_space\yunsupply\commonlib\res\layout\view_empty_info.xml" qualifiers="" type="layout"/><file name="view_key" path="E:\studio_space\yunsupply\commonlib\res\layout\view_key.xml" qualifiers="" type="layout"/><file name="view_picker" path="E:\studio_space\yunsupply\commonlib\res\layout\view_picker.xml" qualifiers="" type="layout"/><file name="view_time_picker" path="E:\studio_space\yunsupply\commonlib\res\layout\view_time_picker.xml" qualifiers="" type="layout"/><file name="view_value" path="E:\studio_space\yunsupply\commonlib\res\layout\view_value.xml" qualifiers="" type="layout"/><file name="zm_dialog" path="E:\studio_space\yunsupply\commonlib\res\layout\zm_dialog.xml" qualifiers="" type="layout"/><file name="zxing_activity_capture" path="E:\studio_space\yunsupply\commonlib\res\layout\zxing_activity_capture.xml" qualifiers="" type="layout"/><file name="newdatatoast" path="E:\studio_space\yunsupply\commonlib\res\raw\newdatatoast.wav" qualifiers="" type="raw"/><file name="zxing_beep" path="E:\studio_space\yunsupply\commonlib\res\raw\zxing_beep.ogg" qualifiers="" type="raw"/><file path="E:\studio_space\yunsupply\commonlib\res\values\attrs.xml" qualifiers=""><declare-styleable name="EnhanceListView">
+        <attr format="boolean" name="isRefreshStyle"/>
+        <attr format="boolean" name="isLoadMoreStyle"/>
+    </declare-styleable><attr format="reference" name="numberPickerStyle"/><declare-styleable name="SlideItemView">
+        <attr format="dimension" name="slide_size"/>
+    </declare-styleable><declare-styleable name="gravity">
+        <attr name="gravity">
+            <enum name="normal" value="0"/>
+            <enum name="side" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="BuyModeView">
+        <attr format="color" name="textPriceColor"/>
+        <attr format="color" name="textDisColor"/>
+        <attr format="color" name="plusColor"/>
+        <attr format="color" name="minusColor"/>
+        <attr format="string" name="textPricevalue"/>
+        <attr format="string" name="textDisvalue"/>
+        <attr format="dimension" name="textPriceSize"/>
+        <attr format="dimension" name="textDisSize"/>
+        <attr format="dimension" name="pricePadding"/>
+        <attr format="dimension" name="cartPadding"/>
+        <attr format="dimension" name="textPaddingLeft"/>
+        <attr format="dimension" name="textNumPadding"/>
+        <attr format="reference" name="cartSrc"/>
+        <attr format="reference" name="plusSrc"/>
+        <attr format="reference" name="minusSrc"/>
+        <attr format="reference" name="plusNumSrc"/>
+        <attr format="reference" name="minusNumSrc"/>
+        <attr format="boolean" name="buyMode"/>
+        <attr format="boolean" name="buyNumMode"/>
+    </declare-styleable><declare-styleable name="RedTipTextView">
+        <attr name="redTipsVisibility">
+            <enum name="invisible" value="0"/>
+            <enum name="visible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr name="dotRadius"/>
+    </declare-styleable><declare-styleable name="RedTipRadioButton">
+        <attr name="dotRadius"/>
+    </declare-styleable><attr format="reference|color" name="src"/><declare-styleable name="dotRadius">
+        <attr format="dimension" name="dotRadius"/>
+    </declare-styleable><declare-styleable name="moneyView">
+        <attr format="string" name="moneyValue"/>
+        <attr format="string" name="unitValue"/>
+        <attr format="color" name="intTextColor"/>
+        <attr format="dimension" name="intTextSize"/>
+        <attr format="color" name="doubleTextColor"/>
+        <attr format="dimension" name="doubleTextSize"/>
+        <attr format="color" name="unitTextColor"/>
+        <attr format="dimension" name="unitTextSize"/>
+    </declare-styleable><attr format="integer" min="0" name="maxLength"/><declare-styleable name="RoundProgressBar">
+        <attr format="color" name="roundColor"/>
+        <attr format="color" name="roundProgressColor"/>
+        <attr format="dimension" name="roundWidth"/>
+        <attr format="color" name="pgTextColor"/>
+        <attr format="dimension" name="pgTextSize"/>
+        <attr format="boolean" name="textIsDisplayable"/>
+        <attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr>
+        <attr format="integer" name="max"/>
+    </declare-styleable><declare-styleable name="EditTextWithLabel">
+        <attr format="reference|string" name="label"/>
+        <attr format="color" name="labelTextColor"/>
+        <attr format="color" name="editTextLabelColor"/>
+        <attr name="inputType"/>
+        <attr name="src"/>
+        <attr name="hint"/>
+        <attr name="maxLength"/>
+        <attr format="boolean" name="hideIcon"/>
+        <attr name="gravity"/>
+    </declare-styleable><declare-styleable name="NumberPicker">
+
+        <!-- 未选中文本颜色 -->
+        <attr format="color|reference" name="un_selected_color"/>
+        <!-- 选中文本颜色 -->
+        <attr format="color|reference" name="selected_color"/>
+        <!-- 未选中文本大小 -->
+        <attr format="dimension" name="un_selected_size"/>
+        <!-- 未选中文本大小 -->
+        <attr format="dimension" name="selected_size"/>
+        <!-- @hide Color for the solid color background if such for optimized rendering. -->
+        <attr format="color|reference" name="solidColor"/>
+        <!-- @hide The divider for making the selection area. -->
+        <attr format="reference" name="selectionDivider"/>
+        <!-- @hide The height of the selection divider. -->
+        <attr format="dimension" name="selectionDividerHeight"/>
+        <!-- @hide The distance between the two selection dividers. -->
+        <attr format="dimension" name="selectionDividersDistance"/>
+        <!-- @hide The min height of the NumberPicker. -->
+        <attr format="dimension" name="internalMinHeight"/>
+        <!-- @hide The max height of the NumberPicker. -->
+        <attr format="dimension" name="internalMaxHeight"/>
+        <!-- @hide The min width of the NumberPicker. -->
+        <attr format="dimension" name="internalMinWidth"/>
+        <!-- @hide The max width of the NumberPicker. -->
+        <attr format="dimension" name="internalMaxWidth"/>
+        <!-- @hide The layout of the number picker. -->
+        <attr format="reference" name="internalLayout"/>
+        <!-- @hide The drawable for pressed virtual (increment/decrement) buttons. -->
+        <attr format="reference" name="virtualButtonPressedDrawable"/>
+    </declare-styleable><declare-styleable name="KeyValueView">
+        <attr format="string" name="key"/>
+        <attr format="string" name="value"/>
+        <attr format="color" name="keyTextColor"/>
+        <attr format="color" name="valueTextColor"/>
+        <attr format="dimension" name="keyTextSize"/>
+        <attr format="dimension" name="valueTextSize"/>
+        <!-- 两个文本间的距离 -->
+        <attr format="dimension" name="textPadding"/>
+        <attr name="gravity"/>
+        <!-- 代替Value TextView的android:drawableRight属性 -->
+        <attr name="src"/>
+    </declare-styleable><declare-styleable name="CircleImageView">
+        <attr format="dimension" name="border_width"/>
+        <attr format="color" name="border_color"/>
+    </declare-styleable><declare-styleable name="EditTextWithClear">
+        <attr name="inputType"/>
+        <attr name="src"/>
+        <attr name="hint"/>
+        <attr format="color" name="hintTextColor"/>
+        <attr format="dimension" name="textSize"/>
+        <attr name="maxLength"/>
+    </declare-styleable><attr format="reference|string" name="hint"/><attr name="inputType">
+
+        <!-- There is no content type.  The text is not editable. -->
+        <flag name="none" value="0x00000000"/>
+        <!--
+             Just plain old text.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_NORMAL}.
+
+        -->
+        <flag name="text" value="0x00000001"/>
+        <!--
+             Can be combined with <var>text</var> and its variations to
+             request capitalization of all characters.  Corresponds to
+             {@link android.text.InputType#TYPE_TEXT_FLAG_CAP_CHARACTERS}.
+
+        -->
+        <flag name="textCapCharacters" value="0x00001001"/>
+        <!--
+             Can be combined with <var>text</var> and its variations to
+             request capitalization of the first character of every word.  Corresponds to
+             {@link android.text.InputType#TYPE_TEXT_FLAG_CAP_WORDS}.
+
+        -->
+        <flag name="textCapWords" value="0x00002001"/>
+        <!--
+             Can be combined with <var>text</var> and its variations to
+             request capitalization of the first character of every sentence.  Corresponds to
+             {@link android.text.InputType#TYPE_TEXT_FLAG_CAP_SENTENCES}.
+
+        -->
+        <flag name="textCapSentences" value="0x00004001"/>
+        <!--
+             Can be combined with <var>text</var> and its variations to
+             request auto-correction of text being input.  Corresponds to
+             {@link android.text.InputType#TYPE_TEXT_FLAG_AUTO_CORRECT}.
+
+        -->
+        <flag name="textAutoCorrect" value="0x00008001"/>
+        <!--
+             Can be combined with <var>text</var> and its variations to
+             specify that this field will be doing its own auto-completion and
+             talking with the input method appropriately.  Corresponds to
+             {@link android.text.InputType#TYPE_TEXT_FLAG_AUTO_COMPLETE}.
+
+        -->
+        <flag name="textAutoComplete" value="0x00010001"/>
+        <!--
+             Can be combined with <var>text</var> and its variations to
+             allow multiple lines of text in the field.  If this flag is not set,
+             the text field will be constrained to a single line.  Corresponds to
+             {@link android.text.InputType#TYPE_TEXT_FLAG_MULTI_LINE}.
+
+        -->
+        <flag name="textMultiLine" value="0x00020001"/>
+        <!--
+             Can be combined with <var>text</var> and its variations to
+             indicate that though the regular text view should not be multiple
+             lines, the IME should provide multiple lines if it can.  Corresponds to
+             {@link android.text.InputType#TYPE_TEXT_FLAG_IME_MULTI_LINE}.
+
+        -->
+        <flag name="textImeMultiLine" value="0x00040001"/>
+        <!--
+             Can be combined with <var>text</var> and its variations to
+             indicate that the IME should not show any
+             dictionary-based word suggestions.  Corresponds to
+             {@link android.text.InputType#TYPE_TEXT_FLAG_NO_SUGGESTIONS}.
+
+        -->
+        <flag name="textNoSuggestions" value="0x00080001"/>
+        <!--
+             Text that will be used as a URI.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_URI}.
+
+        -->
+        <flag name="textUri" value="0x00000011"/>
+        <!--
+             Text that will be used as an e-mail address.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_EMAIL_ADDRESS}.
+
+        -->
+        <flag name="textEmailAddress" value="0x00000021"/>
+        <!--
+             Text that is being supplied as the subject of an e-mail.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_EMAIL_SUBJECT}.
+
+        -->
+        <flag name="textEmailSubject" value="0x00000031"/>
+        <!--
+             Text that is the content of a short message.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_SHORT_MESSAGE}.
+
+        -->
+        <flag name="textShortMessage" value="0x00000041"/>
+        <!--
+             Text that is the content of a long message.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_LONG_MESSAGE}.
+
+        -->
+        <flag name="textLongMessage" value="0x00000051"/>
+        <!--
+             Text that is the name of a person.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_PERSON_NAME}.
+
+        -->
+        <flag name="textPersonName" value="0x00000061"/>
+        <!--
+             Text that is being supplied as a postal mailing address.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_POSTAL_ADDRESS}.
+
+        -->
+        <flag name="textPostalAddress" value="0x00000071"/>
+        <!--
+             Text that is a password.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_PASSWORD}.
+
+        -->
+        <flag name="textPassword" value="0x00000081"/>
+        <!--
+             Text that is a password that should be visible.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_VISIBLE_PASSWORD}.
+
+        -->
+        <flag name="textVisiblePassword" value="0x00000091"/>
+        <!--
+             Text that is being supplied as text in a web form.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_WEB_EDIT_TEXT}.
+
+        -->
+        <flag name="textWebEditText" value="0x000000a1"/>
+        <!--
+             Text that is filtering some other data.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_FILTER}.
+
+        -->
+        <flag name="textFilter" value="0x000000b1"/>
+        <!--
+             Text that is for phonetic pronunciation, such as a phonetic name
+             field in a contact entry.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_PHONETIC}.
+
+        -->
+        <flag name="textPhonetic" value="0x000000c1"/>
+        <!--
+             Text that will be used as an e-mail address on a web form.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_WEB_EMAIL_ADDRESS}.
+
+        -->
+        <flag name="textWebEmailAddress" value="0x000000d1"/>
+        <!--
+             Text that will be used as a password on a web form.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_TEXT} |
+             {@link android.text.InputType#TYPE_TEXT_VARIATION_WEB_PASSWORD}.
+
+        -->
+        <flag name="textWebPassword" value="0x000000e1"/>
+        <!--
+             A numeric only field.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_NUMBER} |
+             {@link android.text.InputType#TYPE_NUMBER_VARIATION_NORMAL}.
+
+        -->
+        <flag name="number" value="0x00000002"/>
+        <!--
+             Can be combined with <var>number</var> and its other options to
+             allow a signed number.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_NUMBER} |
+             {@link android.text.InputType#TYPE_NUMBER_FLAG_SIGNED}.
+
+        -->
+        <flag name="numberSigned" value="0x00001002"/>
+        <!--
+             Can be combined with <var>number</var> and its other options to
+             allow a decimal (fractional) number.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_NUMBER} |
+             {@link android.text.InputType#TYPE_NUMBER_FLAG_DECIMAL}.
+
+        -->
+        <flag name="numberDecimal" value="0x00002002"/>
+        <!--
+             A numeric password field.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_NUMBER} |
+             {@link android.text.InputType#TYPE_NUMBER_VARIATION_PASSWORD}.
+
+        -->
+        <flag name="numberPassword" value="0x00000012"/>
+        <!--
+             For entering a phone number.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_PHONE}.
+
+        -->
+        <flag name="phone" value="0x00000003"/>
+        <!--
+             For entering a date and time.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_DATETIME} |
+             {@link android.text.InputType#TYPE_DATETIME_VARIATION_NORMAL}.
+
+        -->
+        <flag name="datetime" value="0x00000004"/>
+        <!--
+             For entering a date.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_DATETIME} |
+             {@link android.text.InputType#TYPE_DATETIME_VARIATION_DATE}.
+
+
+        -->
+        <flag name="date" value="0x00000014"/>
+        <!--
+             For entering a time.  Corresponds to
+             {@link android.text.InputType#TYPE_CLASS_DATETIME} |
+             {@link android.text.InputType#TYPE_DATETIME_VARIATION_TIME}.
+
+
+        -->
+        <flag name="time" value="0x00000024"/>
+    </attr></file><file path="E:\studio_space\yunsupply\commonlib\res\values\color.xml" qualifiers=""><color name="main_color_pressed">#3379D7</color><color name="white_selected">#F8F8F8</color><color name="btn_red_normal">#FE6E6E</color><color name="hint">#BBBBBB</color><color name="gray_light">#CDCDCD</color><color name="btn_green_disable">#ECECEC</color><color name="main_color">#4A8DE6</color><color name="green_assist">#9FD367</color><color name="black">#575757</color><color name="btn_red_selected">#EC5252</color><color name="brown">#A9834F</color><color name="btn_green_normal">#A0D468</color><color name="transparent">#00000000</color><color name="head_circle_white">#4CFFFFFF</color><color name="divider_dark">#DCDEE1</color><color name="red">#FE6E6E</color><color name="light_brown">#FFF9E8</color><color name="btn_blue_normal">#4A8DE6</color><color name="btn_orange_disable">#ECECEC</color><color name="divider_light">#EBEBEB</color><color name="bg_main">#F6F6F6</color><color name="btn_blue_selected">#3379D7</color><color name="btn_orange_selected">#E88D31</color><color name="main_color_disable">#ECECEC</color><color name="green">#A0D468</color><color name="btn_blue_disable">#ECECEC</color><color name="light_yellow">#FBEEB8</color><color name="blue">#4A8DE6</color><color name="orange">#FFA448</color><color name="half_transparent">#60000000</color><color name="btn_red_disable">#ECECEC</color><color name="btn_green_selected">#88C249</color><color name="gray">#999999</color><color name="btn_orange_normal">#FFA449</color><color name="white">#FFFFFF</color><color name="bg_area">#ECECEC</color></file><file path="E:\studio_space\yunsupply\commonlib\res\values\configs.xml" qualifiers=""><integer name="config_refresh_rotate_anim_duration">1000</integer></file><file path="E:\studio_space\yunsupply\commonlib\res\values\dimens.xml" qualifiers=""><dimen name="button_footer_margin">50dp</dimen><dimen name="main_item_padding">16dp</dimen><dimen name="text_size_mini">11sp</dimen><dimen name="text_size_miniest">7sp</dimen><dimen name="margin_medium">16dp</dimen><dimen name="enhance_list_empty_text_size">12sp</dimen><dimen name="divider">1px</dimen><dimen name="normal_size">15dp</dimen><dimen name="tab_height">44dp</dimen><dimen name="text_size_large">18sp</dimen><dimen name="goods_item_hight">85dp</dimen><dimen name="big_item_hight">70dp</dimen><dimen name="item_height">40dp</dimen><dimen name="enhance_list_empty_text_padding">120dp</dimen><dimen name="text_size_normal">15sp</dimen><dimen name="mini_size">5dp</dimen><dimen name="text_size_medium">16sp</dimen><dimen name="content_margin_size">7dp</dimen><dimen name="key_max_width">160dp</dimen><dimen name="button_small_hight">24dp</dimen><dimen name="button_top_margin">50dp</dimen><dimen name="enhance_list_header_release_min_distance">20dp</dimen><dimen name="large_size">20dp</dimen><dimen name="titlebar_height">44dp</dimen><dimen name="miniest_size">2dp</dimen><dimen name="text_size_x_large">19sp</dimen><dimen name="small_size">10dp</dimen><dimen name="default_text_padding_bottom">4dp</dimen><dimen name="input_height">40dp</dimen><dimen name="logo_img_hight">50dp</dimen><dimen name="text_size_small">13sp</dimen><dimen name="button_hight">43dp</dimen><dimen name="button_outside_margin">50dp</dimen><dimen name="default_text_padding_right">10dp</dimen><dimen name="text_header_height">35dp</dimen><dimen name="radius">4dp</dimen></file><file path="E:\studio_space\yunsupply\commonlib\res\values\ids.xml" qualifiers=""><item name="np__increment" type="id"/><item name="np__decrement" type="id"/></file><file path="E:\studio_space\yunsupply\commonlib\res\values\strings.xml" qualifiers=""><string name="system_msg">系统消息</string><string name="old_pwd">原始密码</string><string name="order_undeal">未处理</string><string name="account">账号</string><string name="edit">编辑</string><string name="pasword_empty">密码不能为空</string><string name="no_message_lable">还没有消息哦</string><string name="close">[关闭]</string><string name="commit_success">提交成功</string><string name="unknown">女</string><string name="exit">退出</string><string name="type_validate_code">请输入验证码</string><string name="order_pay_way_weixin">微信支付</string><string name="order_exception">异常订单</string><string name="order_code">订单号:</string><string name="male">男</string><string name="login">登 录</string><string name="order_detail_phone">联系电话:</string><string name="enhance_list_empty_data">No data to display</string><string name="generic_error">网络错误，请稍后再试</string><string name="reset_pwd">重置密码</string><string name="phone_empty">手机号不能为空</string><string name="commit">提交</string><string name="take_picture">拍照</string><string name="change_pwd">修改密码</string><string name="cancel">取消</string><string name="on">开启</string><string name="enhance_list_header_refreshing_text">Refresh…</string><string name="type_mobile_hint">请输入手机号码</string><string name="order_detail_status_finish_order">已送达</string><string name="logining">正在登录…</string><string name="order_distribution_finish">已送达</string><string name="order_paid">已支付</string><string name="order_detail_pay_ways">付款方式:</string><string name="order_detail_status_distributioning">配送中</string><string name="firm">确定</string><string name="ticket_price">-¥%s</string><string name="chengdu">成都市</string><string name="save_success">保存成功</string><string name="forget_pwd">忘记密码?</string><string name="order_pay_way_arrived">货到付款</string><string name="enhance_list_footer_more_text">More</string><string name="choose_picture_from_local">从相机选择</string><string name="generic_server_down">连接服务器超时</string><string name="no_net">你的网络不太给力\n请检查你的手机是否设置</string><string name="profit_price">+%s</string><string name="set_pwd">设置密码</string><string name="validate_code">验证码</string><string name="operator_note_pro">%s中…</string><string name="exit_notice">再按一次退出</string><string name="loading">努力加载中…</string><string name="piece">%s件</string><string name="no_data_load">无数据可加载</string><string name="off">关闭</string><string name="give_up">放弃</string><string name="register">注册</string><string name="female">女</string><string name="next">下一步</string><string name="loss_price">-%s</string><string name="order_msg">订单消息</string><string name="order_detail_pay">实际支付:</string><string name="order_detail_goods_num">× %s</string><string name="wrongfun">扫描结果不合法</string><string name="data_deleting">数据删除中…</string><string name="order_detail_remark">备注:</string><string name="order_detail_status_exception_order">异常订单</string><string name="order_detail_bar_code">条形码   %s</string><string name="receive_info_error">获取网络数据失败</string><string name="time_range">%1$s 至 %2$s</string><string name="firm_reset_pwd">确认重置</string><string name="mobile">手机号</string><string name="type_mobile_error">手机号码格式错误</string><string name="token_time_out">为保证您的信息安全，请重新登录</string><string name="all">全部</string><string name="version_update_confirm">升级</string><string name="order_go_distribution">完成理货，去配送</string><string name="order_detail_deal_finish_promp">配送完成，共历时%s!</string><string name="firm_is_upload">是否确定上传头像？</string><string name="send">发送</string><string name="money_rule">0.00</string><string name="generic_server_error">服务器内部错误</string><string name="no_internet">目前没有网络，请确认后再试</string><string name="delete">删除</string><string name="order_detail_order_shop">下单超市:</string><string name="no_list_data">没有数据</string><string name="order_detail_user_info">收货人信息</string><string name="get_code_success">验证码已发送</string><string name="add_yun_goods_progress_tips">正在添加到云商品库中…</string><string name="company_name">四川掌麦科技有限公司</string><string name="type_pwd_hint">请输入6–16位密码</string><string name="order_detail_ticket">代金券:</string><string name="get_validate_code">获取验证码</string><string name="order_pay_way_zhifubao">支付宝支付</string><string name="commiting">数据提交中…</string><string name="pwd_diffrent">两次密码输入不一致</string><string name="progress_loading_tips">数据加载中…</string><string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array><string name="type_ori_pwd_hint">请输入原始密码</string><string name="select_all">全选</string><string name="empty_data">未填写</string><string name="version_update">版本更新</string><string name="data_not_exists">数据不存在</string><string name="setting_is_exit">确定退出系统吗？</string><string name="service_tel">400-8815661</string><string name="enhance_list_header_refresh_success_text">Refresh success</string><string name="top_no_net">无法连接到网络，请检查网络设置</string><string name="money">¥%.2f</string><string name="clear">清空</string><string name="abount_mark">Copyright © 2014 zhangmai</string><string name="json_error">返回数据格式错误</string><string name="order_detail_pay_info">支付信息</string><string name="repeat_loading">重新加载</string><string name="app_name_test">commonlib</string><string name="yes">是</string><string name="no">否</string><string name="confirm">确定</string><string name="order_dealing">配送中</string><string name="order_detail_goods_info">商品信息</string><string name="order_detail_goods_nums">商品数量:</string><string name="order">订单</string><string name="enhance_list_footer_loading_text">Loading…</string><string name="send_success">发送成功</string><string name="order_detail_dealing">订单处理中…</string><string name="refresh">刷新</string><string name="order_detail_info">订单信息</string><string name="net_requesting">网络请求中…</string><string name="sichuan">四川省</string><string name="order_pay_not">未支付</string><string name="enhance_list_header_release_text">Release to refresh</string><string name="user_adress">收货地址:</string><string name="get_pic_fail">获取头像失败</string><string name="order_detail_status_promp_order">被催单</string><string name="price">¥%s</string><string name="confirm_pwd">确认密码</string><string name="count">%s次</string><string name="not_support_emotion">不支持表情输入</string><string name="order_detail_order_total_price">订单合计:</string><string name="refund_money">退¥%.2f</string><string name="password">密码</string><string name="order_detail_status_build_order">下订单</string><string name="order_detail_pay_status">付款状态:</string><string name="version_update_cancle">取消</string><string name="save">保存</string><string name="enhance_list_header_pull_text">Drop Down to refresh</string><string name="phone_format_error">请输入正确的手机号码</string><string name="finish">完成</string><string name="order_detail_order_status">订单状态:</string><string name="order_detail_name">称呼:</string><string name="enhance_list_footer_no_more_text">No more</string><string name="sevice_tel">客服电话 400-8815661</string><string name="order_detail">订单详情</string><string name="setting_clear_cache">确定清除缓存吗？</string><string name="forget_pwd2">忘记密码</string></file><file path="E:\studio_space\yunsupply\commonlib\res\values\styles.xml" qualifiers=""><style name="picker_style" parent="@style/dialog_bottom">
+        <item name="internalMaxHeight">160dip</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+    </style><style name="text_key">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:maxWidth">@dimen/key_max_width</item>
+    </style><style name="divider_light_horizontal">
+        <item name="android:layout_width">1px</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/divider_light</item>
+    </style><style name="edit_text">
+        <item name="android:layout_height">32dp</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:paddingLeft">@dimen/mini_size</item>
+        <item name="android:paddingRight">@dimen/mini_size</item>
+        <item name="android:background">@drawable/selector_edit_gray_maincolor</item>
+        <item name="android:textColorHint">@color/gray_light</item>
+    </style><style name="text_header_normal" parent="@style/text_normal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingLeft">@dimen/normal_size</item>
+        <item name="android:paddingRight">@dimen/normal_size</item>
+        <item name="android:layout_height">@dimen/text_header_height</item>
+        <item name="android:background">@color/bg_area</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style><style name="text_basic">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="main_item">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/main_item_padding</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:clickable">true</item>
+    </style><style name="edit_text_normal" parent="@style/text_basic">
+        <item name="android:layout_height">@dimen/tab_height</item>
+        <item name="android:paddingLeft">@dimen/mini_size</item>
+        <item name="android:paddingTop">@dimen/small_size</item>
+        <item name="android:paddingBottom">@dimen/small_size</item>
+        <item name="android:paddingRight">@dimen/mini_size</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:textColorHint">@color/gray_light</item>
+    </style><style name="orange_button" parent="@style/button_basic">
+        <item name="android:background">@drawable/selector_orange_corner</item>
+        <item name="android:textColor">@drawable/selector_text_color_white</item>
+    </style><style name="blue_square_button" parent="@style/button_basic">
+        <item name="android:background">@drawable/selector_text_button</item>
+        <item name="android:textColor">@drawable/selector_text_color_white</item>
+    </style><style name="dialog_bottom">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="header_content_area">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/normal_size</item>
+        <item name="android:paddingTop">@dimen/content_margin_size</item>
+        <item name="android:paddingBottom">@dimen/content_margin_size</item>
+        <item name="android:paddingRight">@dimen/normal_size</item>
+        <item name="android:background">@color/bg_area</item>
+    </style><style name="divider_horizontal">
+        <item name="android:layout_width">1px</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/divider_dark</item>
+    </style><style name="text_title" parent="@style/text_basic">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="button_basic">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/button_hight</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style><style name="ratingbar_shop_score" parent="@android:style/Widget.RatingBar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:progressDrawable">@drawable/ratingbar_small</item>
+    </style><style name="listview_basic">
+        <item name="android:listSelector">#00000000</item>
+        <item name="android:divider">@null</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:scrollingCache">false</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:scrollbars">none</item>
+    </style><style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="ActTheme" parent="android:Theme.Light">
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style><style name="red_button" parent="@style/button_basic">
+        <item name="android:background">@drawable/selector_red_corner</item>
+        <item name="android:textColor">@drawable/selector_text_color_white</item>
+    </style><style name="key_value_basic">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="main_color_button" parent="@style/button_basic">
+        <item name="android:background">@drawable/selector_maincolor_corner</item>
+        <item name="android:textColor">@drawable/selector_text_color_white</item>
+    </style><style name="light_blue_button" parent="@style/button_basic">
+        <item name="android:background">@drawable/selector_text_button</item>
+        <item name="android:textColor">@color/main_color</item>
+    </style><style name="ratingbar_small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">18dp</item>
+        <item name="android:progressDrawable">@drawable/ratingbar_small</item>
+    </style><style name="divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/divider_dark</item>
+    </style><style name="normal_item">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">11dp</item>
+        <item name="android:paddingTop">11dp</item>
+    </style><style name="popwin_anim_style">
+        <item name="android:windowEnterAnimation">@anim/popuwindow_in_style</item>
+        <item name="android:windowExitAnimation">@anim/popuwindow_out_style</item>
+    </style><style name="text_value">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+    </style><style name="blue_button" parent="@style/button_basic">
+        <item name="android:background">@drawable/selector_blue_corner</item>
+        <item name="android:textColor">@drawable/selector_text_color_white</item>
+    </style><style name="timePicker">
+        <item name="android:windowNoTitle">true</item>
+        <item name="internalMaxHeight">160dip</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+    </style><style name="text_normal" parent="@style/text_basic">
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="basic_bg">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:padding">@dimen/normal_size</item>
+    </style><style name="text_small" parent="@style/text_basic">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/gray</item>
+    </style><style name="imageview_basic">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="divider_light">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/divider_light</item>
+    </style><style name="green_button" parent="@style/button_basic">
+        <item name="android:background">@drawable/selector_green_corner</item>
+        <item name="android:textColor">@drawable/selector_text_color_white</item>
+    </style><style name="dialog_basic_styles" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="dialog_no_all" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="ratingbar_big">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">27dp</item>
+        <item name="android:progressDrawable">@drawable/ratingbar</item>
+    </style></file><file path="E:\studio_space\yunsupply\commonlib\res\values\zxing_color.xml" qualifiers=""><color name="top_text">#ECECEC</color><color name="result_view">#B0000000</color><color name="possible_result_points">#C0FFFF00</color><color name="viewfinder_mask">#60000000</color></file><file path="E:\studio_space\yunsupply\commonlib\res\values\zxing_dimens.xml" qualifiers=""><dimen name="line_height">1dp</dimen><dimen name="max_width">270dp</dimen><dimen name="max_height">180dp</dimen><dimen name="frame_line_width">2dp</dimen><dimen name="speen_distance">2dp</dimen><dimen name="min_height">160dp</dimen><dimen name="min_width">240dp</dimen></file><file path="E:\studio_space\yunsupply\commonlib\res\values\zxing_strings.xml" qualifiers=""><string name="zxing_back">返回</string><string name="zxing_scan_text_title">你可以通过扫一扫自动识别商品</string><string name="zxing_scan_text">[请对准红色线条]</string></file><file path="E:\studio_space\yunsupply\commonlib\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="E:\studio_space\yunsupply\commonlib\build\generated\res\rs\release"/><source path="E:\studio_space\yunsupply\commonlib\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="E:\studio_space\yunsupply\commonlib\build-types\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="EditTextWithLabel"><attr format="reference|string" name="label"/><attr format="color" name="labelTextColor"/><attr format="color" name="editTextLabelColor"/><attr name="inputType"/><attr name="src"/><attr name="hint"/><attr name="maxLength"/><attr format="boolean" name="hideIcon"/><attr name="gravity"/></declare-styleable><declare-styleable name="NumberPicker"><attr format="color|reference" name="un_selected_color"/><attr format="color|reference" name="selected_color"/><attr format="dimension" name="un_selected_size"/><attr format="dimension" name="selected_size"/><attr format="color|reference" name="solidColor"/><attr format="reference" name="selectionDivider"/><attr format="dimension" name="selectionDividerHeight"/><attr format="dimension" name="selectionDividersDistance"/><attr format="dimension" name="internalMinHeight"/><attr format="dimension" name="internalMaxHeight"/><attr format="dimension" name="internalMinWidth"/><attr format="dimension" name="internalMaxWidth"/><attr format="reference" name="internalLayout"/><attr format="reference" name="virtualButtonPressedDrawable"/></declare-styleable><declare-styleable name="BuyModeView"><attr format="color" name="textPriceColor"/><attr format="color" name="textDisColor"/><attr format="color" name="plusColor"/><attr format="color" name="minusColor"/><attr format="string" name="textPricevalue"/><attr format="string" name="textDisvalue"/><attr format="dimension" name="textPriceSize"/><attr format="dimension" name="textDisSize"/><attr format="dimension" name="pricePadding"/><attr format="dimension" name="cartPadding"/><attr format="dimension" name="textPaddingLeft"/><attr format="dimension" name="textNumPadding"/><attr format="reference" name="cartSrc"/><attr format="reference" name="plusSrc"/><attr format="reference" name="minusSrc"/><attr format="reference" name="plusNumSrc"/><attr format="reference" name="minusNumSrc"/><attr format="boolean" name="buyMode"/><attr format="boolean" name="buyNumMode"/></declare-styleable><declare-styleable name="EnhanceListView"><attr format="boolean" name="isRefreshStyle"/><attr format="boolean" name="isLoadMoreStyle"/></declare-styleable><declare-styleable name="EditTextWithClear"><attr name="inputType"/><attr name="src"/><attr name="hint"/><attr format="color" name="hintTextColor"/><attr format="dimension" name="textSize"/><attr name="maxLength"/></declare-styleable><declare-styleable name="RedTipRadioButton"><attr name="dotRadius"/></declare-styleable><declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable><declare-styleable name="gravity"><attr name="gravity"><enum name="normal" value="0"/><enum name="side" value="1"/></attr></declare-styleable><declare-styleable name="RedTipTextView"><attr name="redTipsVisibility"><enum name="invisible" value="0"/><enum name="visible" value="1"/><enum name="gone" value="2"/></attr><attr name="dotRadius"/></declare-styleable><declare-styleable name="moneyView"><attr format="string" name="moneyValue"/><attr format="string" name="unitValue"/><attr format="color" name="intTextColor"/><attr format="dimension" name="intTextSize"/><attr format="color" name="doubleTextColor"/><attr format="dimension" name="doubleTextSize"/><attr format="color" name="unitTextColor"/><attr format="dimension" name="unitTextSize"/></declare-styleable><declare-styleable name="KeyValueView"><attr format="string" name="key"/><attr format="string" name="value"/><attr format="color" name="keyTextColor"/><attr format="color" name="valueTextColor"/><attr format="dimension" name="keyTextSize"/><attr format="dimension" name="valueTextSize"/><attr format="dimension" name="textPadding"/><attr name="gravity"/><attr name="src"/></declare-styleable><declare-styleable name="SlideItemView"><attr format="dimension" name="slide_size"/></declare-styleable><declare-styleable name="RoundProgressBar"><attr format="color" name="roundColor"/><attr format="color" name="roundProgressColor"/><attr format="dimension" name="roundWidth"/><attr format="color" name="pgTextColor"/><attr format="dimension" name="pgTextSize"/><attr format="boolean" name="textIsDisplayable"/><attr name="style"><enum name="STROKE" value="0"/><enum name="FILL" value="1"/></attr><attr format="integer" name="max"/></declare-styleable><declare-styleable name="dotRadius"><attr format="dimension" name="dotRadius"/></declare-styleable></configuration></mergedItems></merger>

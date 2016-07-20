@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:orientation="vertical"
+    android:paddingBottom="10dp" >
+
+    <LinearLayout
+        android:id="@+id/content_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_top_one"
+            android:layout_width="fill_parent"
+            android:layout_height="43dp"
+            android:layout_marginBottom="1dp"
+            android:background="@drawable/white_top_corner_selector"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="拍照"
+            android:textColor="@color/main_color"
+            android:textSize="15dp"
+            tools:ignore="HardcodedText,SpUsage" />
+
+        <Button
+            android:id="@+id/btn_top_two"
+            android:layout_width="fill_parent"
+            android:layout_height="43dp"
+            android:background="@drawable/white_bottom_corner_selector"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="从手机照片中选择"
+            android:textColor="@color/main_color"
+            android:textSize="15dp"
+            tools:ignore="HardcodedText,SpUsage" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="43dp"
+        android:background="@drawable/white_corner_selector"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="取消"
+        android:textColor="#ff6e6e"
+        android:textSize="15dp"
+        tools:ignore="HardcodedText,SpUsage" />
+
+</LinearLayout>

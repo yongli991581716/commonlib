@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_color_tab_blue_black.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_color_tab_blue_black.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\divider_line_vertical.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\divider_line_vertical.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\message_gray_circle_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\message_gray_circle_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_middle_corner_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_middle_corner_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_corner_right_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_corner_right_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_normal_disable.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\btn_default_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_color_white.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_color_white.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_color_tab_green_white.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_color_tab_green_white.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_normal_disable_focused.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\btn_default_normal_disable_focused.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_red_button.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_red_button.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\shape_white_corner_middle.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\shape_white_corner_middle.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_basic_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\dialog_basic_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_pressed.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\btn_default_pressed.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_clickable_text.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_clickable_text.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_blue_button.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_blue_button.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_color_tab_blue.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_color_tab_blue.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\ratingbar.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\ratingbar.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_corner_middle_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_corner_middle_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\message_blue_circle_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\message_blue_circle_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_normal.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\btn_default_normal.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_bg_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_bg_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_bg_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\transparent_bg_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_maincolor_corner.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_maincolor_corner.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\list_corner_item_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\list_corner_item_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\divider_light_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\divider_light_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_orange_corner.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_orange_corner.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_bottom_corner_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_bottom_corner_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_selected.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\btn_default_selected.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\ratingbar_small.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\ratingbar_small.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_color_tab_green.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_color_tab_green.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_check.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_check.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\divider_green_hor.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\divider_green_hor.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\divider_dark_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\divider_dark_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_blue_corner.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_blue_corner.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_list_item.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_list_item.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\divider_red_hor.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\divider_red_hor.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\enhance_list_arrow.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\enhance_list_arrow.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\item_coner_bg.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\item_coner_bg.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\half_transparent_bg_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\half_transparent_bg_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_corner_bg.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\gray_corner_bg.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\gray_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_green_corner.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_green_corner.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\next.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\next.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_top_corner_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_top_corner_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_corner_left_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_corner_left_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\phone_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\phone_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_bg_selected_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_bg_selected_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_corner_selector.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\white_corner_selector.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_button.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_button.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_edit_gray_maincolor.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_edit_gray_maincolor.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_red_corner.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_red_corner.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\zxing_mm_title_back_btn.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\zxing_mm_title_back_btn.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_text_color_tab_green_gray.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_color_tab_green_gray.xml"
+    }
+]

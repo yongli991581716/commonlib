@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- 不可点击背景 -->
+    <item android:state_enabled="false" tools:ignore="StateListReachable"><shape>
+
+            <!-- 填充 -->
+            <solid android:color="@color/white" />
+        </shape></item>
+    <!-- 选中时的图片背景 -->
+    <item android:state_pressed="true" tools:ignore="StateListReachable"><shape>
+
+            <!-- 填充 -->
+            <solid android:color="@color/white_selected" />
+        </shape></item>
+    <!-- 默认时的背景图片 -->
+    <item><shape>
+
+            <!-- 填充 -->
+            <solid android:color="@color/white" />
+        </shape></item>
+
+</selector>

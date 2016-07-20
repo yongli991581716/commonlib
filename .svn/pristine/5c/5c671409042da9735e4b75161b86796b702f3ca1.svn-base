@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- 扫描区4个角先宽度 -->
+    <dimen name="frame_line_width">2dp</dimen>
+    <!-- 扫描线高度 -->
+    <dimen name="line_height">1dp</dimen>
+    <!-- 扫描区最小宽度 -->
+    <dimen name="min_width">240dp</dimen>
+    <!-- 扫描区最大宽度 -->
+    <dimen name="max_width">270dp</dimen>
+    <!-- 扫描区最小高度 -->
+    <dimen name="min_height">160dp</dimen>
+    <!-- 扫描区最大高度 -->
+    <dimen name="max_height">180dp</dimen>
+    <!-- 中间那条线每次刷新移动的距离 -->
+    <dimen name="speen_distance">2dp</dimen>
+
+</resources>

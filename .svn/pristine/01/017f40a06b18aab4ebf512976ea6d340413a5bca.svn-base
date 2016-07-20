@@ -1,0 +1,42 @@
+apply plugin: 'com.android.library'
+
+dependencies {
+    //compile fileTree(include: '*.jar', dir: 'libs') 注释该行，目的是不加载android-support-v4.jar，以防止项目加载重复包，且此处包在其他项目会有引用，故保留不删除
+    compile files('libs/gson-2.5.jar')
+    //注释掉umeng 是为了通过有仓库管理，始终更新最新umeng包， 在对应lib中保留此jar包，是因为其他项目会对此包进行引用
+    //compile files('libs/umeng-analytics-v5.6.4.jar')
+    compile 'com.umeng.analytics:analytics:latest.integration'
+    compile project(':volley')
+    compile project(':slidingmenu')
+
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+
+        // Move the tests to tests/java, tests/res, etc...
+        instrumentTest.setRoot('tests')
+
+        // Move the build types to build-types/<type>
+        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+        // This moves them out of them default location under src/<type>/... which would
+        // conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+}

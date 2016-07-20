@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 头像外边框透明灰 -->
+    <color name="head_circle_white">#4CFFFFFF</color>
+    <!-- 透明色 -->
+    <color name="transparent">#00000000</color>
+    <!-- 半透明色 -->
+    <color name="half_transparent">#60000000</color>
+
+    <!-- 定义共用文字颜色 -->
+    <!-- 主色(商户端和物流端使用蓝色：#4A8DE6  用户端使用深绿色：#32B25D) -->
+    <color name="main_color">#4A8DE6</color>
+    <!-- 主色被按下颜色 -->
+    <!-- 主色(商户端使用蓝色：#3379D7  用户端使用深绿色：#1ba349) -->
+    <color name="main_color_pressed">#3379D7</color>
+    <!-- 主色不可用颜色 -->
+    <color name="main_color_disable">#ECECEC</color>
+    <!-- 辅色(绿色) -->
+    <color name="green_assist">#9FD367</color>
+    <!-- 主色(浅灰) -->
+    <color name="gray">#999999</color>
+    <!-- 主色(最浅提示，一般在输入框) -->
+    <color name="gray_light">#CDCDCD</color>
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 白色被选择(用于列表条目点击效果) -->
+    <color name="white_selected">#F8F8F8</color>
+    <!-- 橙色 -->
+    <color name="orange">#FFA448</color>
+    <!-- hint颜色 -->
+    <color name="hint">#BBBBBB</color>
+
+    <!-- 主背景色 -->
+    <color name="bg_main">#F6F6F6</color>
+    <!-- 浅灰色背景色 -->
+    <color name="bg_area">#ECECEC</color>
+    <!-- 深色分割线/轮廓线 -->
+    <color name="divider_dark">#DCDEE1</color>
+    <!-- 浅色分割线/轮廓线 -->
+    <color name="divider_light">#EBEBEB</color> 
+    <!-- 有缓存模式下无网络视图背景浅黄色 -->
+    <color name="light_yellow">#FBEEB8</color>
+    <!-- 字体颜色(红色) -->
+    <color name="red">#FE6E6E</color>
+    <!-- 字体颜色(绿色) -->
+    <color name="green">#A0D468</color>
+    <!-- 字体颜色(蓝色) -->
+    <color name="blue">#4A8DE6</color>
+    <!-- 字体颜色(深灰) -->
+    <color name="black">#575757</color>
+    <!-- 棕褐色 -->
+    <color name="brown">#A9834F</color>
+    <!-- 淡黄色(订单详情里收货人信息背景色) -->
+    <color name="light_brown">#FFF9E8</color>
+
+    <!-- 按钮颜色 -->
+    <!-- 蓝色按钮3种状态颜色 -->
+    <color name="btn_blue_normal">#4A8DE6</color>
+    <color name="btn_blue_selected">#3379D7</color>
+    <color name="btn_blue_disable">#ECECEC</color>
+    <!-- 绿色按钮3种状态颜色 -->
+    <color name="btn_green_normal">#A0D468</color>
+    <color name="btn_green_selected">#88C249</color>
+    <color name="btn_green_disable">#ECECEC</color>
+    <!-- 橙黄色按钮3种状态颜色 -->
+    <color name="btn_orange_normal">#FFA449</color>
+    <color name="btn_orange_selected">#E88D31</color>
+    <color name="btn_orange_disable">#ECECEC</color>
+    <!-- 红色按钮3种状态颜色 -->
+    <color name="btn_red_normal">#FE6E6E</color>
+    <color name="btn_red_selected">#EC5252</color>
+    <color name="btn_red_disable">#ECECEC</color>
+
+</resources>

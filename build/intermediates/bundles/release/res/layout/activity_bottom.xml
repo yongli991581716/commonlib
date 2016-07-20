@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlv_bottom"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="@dimen/normal_size" >
+
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_hight"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/white_corner_selector"
+        android:text="@string/cancel"
+        android:textColor="@color/red"
+        android:textSize="@dimen/normal_size" />
+
+    <Button
+        android:id="@+id/btn_bottom_one"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_hight"
+        android:layout_above="@+id/btn_cancel"
+        android:layout_marginBottom="@dimen/mini_size"
+        android:background="@drawable/white_bottom_corner_selector"
+        android:textColor="@color/main_color"
+        android:textSize="@dimen/normal_size" />
+
+    <Button
+        android:id="@+id/btn_bottom_two"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_hight"
+        android:layout_above="@+id/btn_bottom_one"
+        android:layout_marginBottom="1dp"
+        android:background="@drawable/white_top_corner_selector"
+        android:textColor="@color/main_color"
+        android:textSize="@dimen/normal_size" />
+
+    <Button
+        android:id="@+id/btn_bottom_three"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_hight"
+        android:layout_above="@+id/btn_bottom_two"
+        android:layout_marginBottom="1dp"
+        android:background="@drawable/white_top_corner_selector"
+        android:textColor="@color/main_color"
+        android:textSize="@dimen/normal_size" />
+
+</RelativeLayout>

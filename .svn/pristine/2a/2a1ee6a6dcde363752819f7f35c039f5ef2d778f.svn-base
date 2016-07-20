@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sign_position.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\sign_position.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flow_one.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\flow_one.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone_unable.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\phone_unable.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_small_all.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_small_all.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plus.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pwd_enable.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\pwd_enable.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clear_type.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\clear_type.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_order_data.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\no_order_data.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_selected.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\next_selected.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order_finish.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\order_finish.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_small_off.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_small_off.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\subtract_bg_none.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\subtract_bg_none.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\enhance_list_arrow.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\enhance_list_arrow.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flow_two.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\flow_two.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pwd_blue_enable.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\pwd_blue_enable.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_small_non.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_small_non.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flow_four.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\flow_four.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exception.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\exception.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_small_on.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_small_on.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_big_off.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_big_off.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\remind.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\remind.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pwd_blue_disable.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\pwd_blue_disable.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_normal.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\next_normal.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_wave_3.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\voice_wave_3.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_wave_bg.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\voice_wave_bg.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pwd_disable.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\pwd_disable.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\minus.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\minus.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\alert.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pwd_disable_title.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\pwd_disable_title.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sign_shop_bg.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\sign_shop_bg.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_bg.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\indicator_bg.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_status_not_read.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\message_status_not_read.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_message.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\no_message.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_wave_2.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\voice_wave_2.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_success.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\refresh_success.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_code_white.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\scan_code_white.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\is_press.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\is_press.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unchecked.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\unchecked.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_code_back.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\scan_code_back.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pwd_enable_title.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\pwd_enable_title.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rule.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\rule.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zxing_mm_title_back_focused.9.PNG",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\zxing_mm_title_back_focused.9.PNG"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zxing_mm_title_back_normal.9.PNG",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\zxing_mm_title_back_normal.9.PNG"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_img_bkg.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\default_img_bkg.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_wave_1.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\voice_wave_1.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flow_three.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\flow_three.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_data.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\no_data.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shop_car.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\shop_car.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_big_on.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_big_on.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone_selected.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\phone_selected.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sign_shop_detail_bg.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\sign_shop_detail_bg.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_big_half.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_big_half.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_bg_none.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\add_bg_none.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_small_half.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_small_half.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_status_has_read.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\message_status_has_read.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_big_non.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_big_non.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\time.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\time.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checked.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\checked.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_net.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\no_net.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\red_dot.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\red_dot.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zxing_mm_title_back_pressed.9.PNG",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\zxing_mm_title_back_pressed.9.PNG"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alert_red.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\alert_red.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_big_all.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\star_big_all.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sign_location.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\sign_location.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zxing_mmtitle_bg_alpha.9.PNG",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-hdpi\\zxing_mmtitle_bg_alpha.9.PNG"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    }
+]

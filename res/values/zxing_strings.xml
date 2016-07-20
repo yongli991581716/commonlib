@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="zxing_back">返回</string>
+    <string name="zxing_scan_text">[请对准红色线条]</string>
+    <string name="zxing_scan_text_title">你可以通过扫一扫自动识别商品</string>
+
+</resources>

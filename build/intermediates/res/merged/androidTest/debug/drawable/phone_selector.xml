@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- 禁用时的图片背景 -->
+    <item android:drawable="@drawable/phone_unable" android:state_enabled="false"/>
+    <!-- 选中时的图片背景 -->
+    <item android:drawable="@drawable/phone_selected" android:state_pressed="true" tools:ignore="StateListReachable"/>
+
+    <!-- 默认时的背景图片 -->
+
+    <item android:drawable="@drawable/phone"/>
+
+</selector>
