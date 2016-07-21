@@ -216,12 +216,12 @@
         "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\enhance_list_arrow.png"
     },
     {
-        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\half_transparent_bg_shape.xml",
-        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\half_transparent_bg_shape.xml"
-    },
-    {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\item_coner_bg.xml",
         "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\item_coner_bg.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\half_transparent_bg_shape.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\half_transparent_bg_shape.xml"
     },
     {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\release\\drawable\\white_corner_bg.xml",

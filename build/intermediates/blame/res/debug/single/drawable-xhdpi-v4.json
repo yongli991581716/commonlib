@@ -68,12 +68,12 @@
         "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-xhdpi\\plus.png"
     },
     {
-        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sign_shop_bg.png",
-        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-xhdpi\\sign_shop_bg.png"
-    },
-    {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\flow_four.9.png",
         "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-xhdpi\\flow_four.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sign_shop_bg.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-xhdpi\\sign_shop_bg.png"
     },
     {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\no_data.png",
@@ -260,12 +260,12 @@
         "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-xhdpi\\alert.png"
     },
     {
-        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unchecked.png",
-        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-xhdpi\\unchecked.png"
-    },
-    {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\remind.png",
         "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-xhdpi\\remind.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unchecked.png",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable-xhdpi\\unchecked.png"
     },
     {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_status_has_read.png",

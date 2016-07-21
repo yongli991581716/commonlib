@@ -228,12 +228,12 @@
         "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_red_button.xml"
     },
     {
-        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_text_color_tab_green_white.xml",
-        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_color_tab_green_white.xml"
-    },
-    {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_normal_disable_focused.9.png",
         "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\btn_default_normal_disable_focused.9.png"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_text_color_tab_green_white.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\res\\drawable\\selector_text_color_tab_green_white.xml"
     },
     {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_white_corner_middle.xml",

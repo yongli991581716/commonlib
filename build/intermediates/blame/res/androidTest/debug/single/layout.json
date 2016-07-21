@@ -24,12 +24,12 @@
         "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
-        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\yunsupply\\slidingmenu\\unspecified\\res\\layout\\slidingmenumain.xml"
-    },
-    {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_update_apk.xml",
         "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_update_apk.xml"
+    },
+    {
+        "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\exploded-aar\\yunsupply\\slidingmenu\\unspecified\\res\\layout\\slidingmenumain.xml"
     },
     {
         "merged": "E:\\studio_space\\yunsupply\\commonlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
