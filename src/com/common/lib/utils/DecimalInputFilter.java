@@ -15,8 +15,14 @@ public class DecimalInputFilter implements InputFilter {
 
     private static final String DOT = ".";
     private static final String DECIMAL_STR = "0123456789.";
+    /** 小数点后几位有效数字 */
+    private int mDigit = 2;
 
     // private static final String DEFAULT_DECIMAL = "00";
+
+    public DecimalInputFilter(int digit) {
+        mDigit = digit;
+    }
 
     @Override
     public CharSequence filter(CharSequence source, int start, int end, Spanned dest, int dstart,
@@ -30,6 +36,9 @@ public class DecimalInputFilter implements InputFilter {
                     }
                 }
 
+                if(mDigit == 0 && source.toString().endsWith(DOT)) {
+                    return source.subSequence(0, source.length() - 1);
+                }
                 // 输入数字和点字符串时
                 for (int i = start; i < end; i++) {
                     if (source.toString().equals(DOT)) {
@@ -58,7 +67,7 @@ public class DecimalInputFilter implements InputFilter {
                     if (Double.valueOf(value) <= 99999999) {
                         int index = value.indexOf(".");
                         // 1、不包含小数时；2、若包含小数，则小数位数不得超过2位
-                        if (index == -1 || value.substring(index + 1).length() <= 2) {
+                        if (index == -1 || value.substring(index + 1).length() <= mDigit) {
                             continue;
                         }
 
@@ -95,16 +104,28 @@ public class DecimalInputFilter implements InputFilter {
         return source;
     }
 
-    public static void filter(EditText editText) {
-
+    /**
+     * 控制editText的输入格式
+     * 
+     * @param editText 控制的目标输入框
+     * @param digit 控制输入框格式为几位小数
+     */
+    public static void filter(EditText editText, int digit) {
         InputFilter[] filters = editText.getFilters();
         int length = filters.length;
-        InputFilter[] inputFilters = new InputFilter[length + 1];
-
-        for (int i = 0; i < length; i++) {
-            inputFilters[i] = filters[i];
+        if (length > 0 && filters[length - 1] instanceof DecimalInputFilter) {
+            filters[length - 1] = new DecimalInputFilter(digit);
+        } else {
+            InputFilter[] inputFilters = new InputFilter[length + 1];
+            for (int i = 0; i < length; i++) {
+                inputFilters[i] = filters[i];
+            }
+            inputFilters[length] = new DecimalInputFilter(digit);
+            editText.setFilters(inputFilters);
         }
-        inputFilters[length] = new DecimalInputFilter();
-        editText.setFilters(inputFilters);
+    }
+
+    public static void filter(EditText editText) {
+        filter(editText, 2);
     }
 }

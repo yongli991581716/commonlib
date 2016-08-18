@@ -25,7 +25,6 @@ import android.view.View;
 import java.lang.reflect.Field;
 
 /**
- * 注入View通常使用
  * ViewUtils.inject(activity);
  * or
  * ViewUtils.inject(view);

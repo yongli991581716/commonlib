@@ -25,6 +25,8 @@
     <string name="receive_info_error">获取网络数据失败</string>
     <string name="get_pic_fail">获取头像失败</string>
     <string name="not_support_emotion">不支持表情输入</string>
+    <string name="capture_precise">精准扫描</string>
+    <string name="capture_quick">快速扫描</string>
 
     <!-- 应用级别 -->
     <string name="exit_notice">再按一次退出</string>
@@ -66,6 +68,7 @@
     <string name="account">账号</string>
     <string name="password">密码</string>
     <string name="mobile">手机号</string>
+    <string name="mobile_hint">请输入手机号</string>
     <string name="type_pwd_hint">请输入6–16位密码</string>
     <string name="type_ori_pwd_hint">请输入原始密码</string>
     <string name="forget_pwd">忘记密码?</string>

@@ -38,6 +38,7 @@ public class EditTextWithLabel extends LinearLayout {
 
     private String mHint;
     private String mLabel;
+    private boolean mIsContentControl;
     private Drawable mDrawable;
     private int mInputType;
     private boolean mHiddenIcon;
@@ -114,7 +115,7 @@ public class EditTextWithLabel extends LinearLayout {
         mDrawable = a.getDrawable(R.styleable.EditTextWithLabel_src);
         mHiddenIcon = a.getBoolean(R.styleable.EditTextWithLabel_hideIcon, false);
         mGravity = a.getInt(R.styleable.EditTextWithLabel_gravity, 0);
-        
+        mIsContentControl = a.getBoolean(R.styleable.EditTextWithLabel_isContentControl, true);
         int defaultLabelColor;
         int defaultEditColor;
         if(isInEditMode()) {
@@ -187,7 +188,8 @@ public class EditTextWithLabel extends LinearLayout {
             padding = res.getDimensionPixelSize(R.dimen.small_size);
         }
         mImageView.setPadding(padding, 0, padding, 0);
-        
+
+        mEditText.setPadding(padding, 0, 0, 0);
         if (mHiddenIcon) {
             setIconVisibility(View.GONE);
         } else {
@@ -209,7 +211,7 @@ public class EditTextWithLabel extends LinearLayout {
     }
 
     private void fixImageView() {
-        if (!mHiddenIcon) {
+        if (mIsContentControl&&!mHiddenIcon) {
             String text = mEditText.getText().toString();
             if (TextUtils.isEmpty(text)) {
                 mImageView.setVisibility(View.INVISIBLE);

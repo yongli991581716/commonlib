@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name_test">commonlib</string>
+
+    <!-- 异常 -->
+    <string name="generic_server_down">连接服务器超时</string>
+    <string name="generic_server_error">服务器内部错误</string>
+    <string name="no_internet">目前没有网络，请确认后再试</string>
+    <string name="generic_error">网络错误，请稍后再试</string>
+    <string name="json_error">返回数据格式错误</string>
+    <string name="token_time_out">为保证您的信息安全，请重新登录</string>
+    <string name="enhance_list_empty_data">No data to display</string>
+    <string name="enhance_list_header_pull_text">Drop Down to refresh</string>
+    <string name="enhance_list_header_release_text">Release to refresh</string>
+    <string name="enhance_list_header_refreshing_text">Refresh…</string>
+    <string name="enhance_list_header_refresh_success_text">Refresh success</string>
+    <string name="enhance_list_footer_more_text">More</string>
+    <string name="enhance_list_footer_loading_text">Loading…</string>
+    <string name="enhance_list_footer_no_more_text">No more</string>
+    <string name="firm">确定</string>
+    <string name="give_up">放弃</string>
+    <string name="finish">完成</string>
+    <string name="all">全部</string>
+    <string name="receive_info_error">获取网络数据失败</string>
+    <string name="get_pic_fail">获取头像失败</string>
+    <string name="not_support_emotion">不支持表情输入</string>
+    <string name="capture_precise">精准扫描</string>
+    <string name="capture_quick">快速扫描</string>
+
+    <!-- 应用级别 -->
+    <string name="exit_notice">再按一次退出</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="clear">清空</string>
+    <string name="edit">编辑</string>
+    <string name="select_all">全选</string>
+    <string name="confirm">确定</string>
+    <string name="send">发送</string>
+    <string name="save">保存</string>
+    <string name="commit">提交</string>
+    <string name="close">[关闭]</string>
+    <string name="send_success">发送成功</string>
+    <string name="save_success">保存成功</string>
+    <string name="commit_success">提交成功</string>
+    <string name="no_list_data">没有数据</string>
+    <string name="net_requesting">网络请求中…</string>
+    <string name="data_deleting">数据删除中…</string>
+    <string name="commiting">数据提交中…</string>
+    <string name="progress_loading_tips">数据加载中…</string>
+    <string name="no_data_load">无数据可加载</string>
+    <string name="loading">努力加载中…</string>
+    <string name="operator_note_pro">%s中…</string>
+    <string name="refresh">刷新</string>
+    <string name="time_range">%1$s 至 %2$s</string>
+    <string name="add_yun_goods_progress_tips">正在添加到云商品库中…</string>
+    <string name="money_rule">0.00</string>
+    <string name="sichuan">四川省</string>
+    <string name="chengdu">成都市</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="on">开启</string>
+    <string name="off">关闭</string>
+    <!-- 登录 -->
+    <string name="login">登 录</string>
+    <string name="exit">退出</string>
+    <string name="register">注册</string>
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="mobile">手机号</string>
+    <string name="mobile_hint">请输入手机号</string>
+    <string name="type_pwd_hint">请输入6–16位密码</string>
+    <string name="type_ori_pwd_hint">请输入原始密码</string>
+    <string name="forget_pwd">忘记密码?</string>
+    <string name="forget_pwd2">忘记密码</string>
+    <string name="change_pwd">修改密码</string>
+    <string name="type_mobile_hint">请输入手机号码</string>
+    <string name="type_mobile_error">手机号码格式错误</string>
+    <string name="type_validate_code">请输入验证码</string>
+    <string name="get_validate_code">获取验证码</string>
+    <string name="validate_code">验证码</string>
+    <string name="pwd_diffrent">两次密码输入不一致</string>
+    <string name="reset_pwd">重置密码</string>
+    <string name="firm_reset_pwd">确认重置</string>
+    <string name="next">下一步</string>
+    <string name="old_pwd">原始密码</string>
+    <string name="set_pwd">设置密码</string>
+    <string name="confirm_pwd">确认密码</string>
+    <string name="phone_empty">手机号不能为空</string>
+    <string name="phone_format_error">请输入正确的手机号码</string>
+    <string name="pasword_empty">密码不能为空</string>
+    <string name="logining">正在登录…</string>
+    <string name="get_code_success">验证码已发送</string>
+    <!-- 版本升级 -->
+    <string name="version_update">版本更新</string>
+    <string name="version_update_cancle">取消</string>
+    <string name="version_update_confirm">升级</string>
+    <!-- 异常 -->
+    <string name="no_net">你的网络不太给力\n请检查你的手机是否设置</string>
+    <string name="repeat_loading">重新加载</string>
+    <string name="top_no_net">无法连接到网络，请检查网络设置</string>
+    <string name="data_not_exists">数据不存在</string>
+    <!-- 订单 -->
+    <string name="order">订单</string>
+    <string name="order_undeal">未处理</string>
+    <string name="order_dealing">配送中</string>
+    <string name="order_exception">异常订单</string>
+    <!-- 订单详情 -->
+    <string name="order_detail">订单详情</string>
+    <string name="order_detail_info">订单信息</string>
+    <string name="order_detail_user_info">收货人信息</string>
+    <string name="order_detail_pay_info">支付信息</string>
+    <string name="order_detail_goods_info">商品信息</string>
+    <string name="order_code">订单号:</string>
+    <string name="order_detail_order_shop">下单超市:</string>
+    <string name="order_detail_order_status">订单状态:</string>
+    <string name="order_detail_name">称呼:</string>
+    <string name="order_detail_phone">联系电话:</string>
+    <string name="user_adress">收货地址:</string>
+    <string name="order_detail_remark">备注:</string>
+    <string name="order_detail_pay_ways">付款方式:</string>
+    <string name="order_detail_pay_status">付款状态:</string>
+    <string name="order_detail_goods_nums">商品数量:</string>
+    <string name="order_detail_order_total_price">订单合计:</string>
+    <string name="order_detail_bar_code">条形码   %s</string>
+    <string name="order_detail_ticket">代金券:</string>
+    <string name="order_detail_pay">实际支付:</string>
+    <string name="order_go_distribution">完成理货，去配送</string>
+    <string name="order_distribution_finish">已送达</string>
+    <string name="order_detail_dealing">订单处理中…</string>
+    <string name="order_detail_deal_finish_promp">配送完成，共历时%s!</string>
+    <string name="order_detail_status_build_order">下订单</string>
+    <string name="order_detail_status_promp_order">被催单</string>
+    <string name="order_detail_status_distributioning">配送中</string>
+    <string name="order_detail_status_finish_order">已送达</string>
+    <string name="order_detail_status_exception_order">异常订单</string>
+    <string name="order_pay_way_arrived">货到付款</string>
+    <string name="order_pay_way_zhifubao">支付宝支付</string>
+    <string name="order_pay_way_weixin">微信支付</string>
+    <string name="order_pay_not">未支付</string>
+    <string name="order_paid">已支付</string>
+    <string name="piece">%s件</string>
+    <string name="price">¥%s</string>
+    <string name="count">%s次</string>
+    <string name="profit_price">+%s</string>
+    <string name="loss_price">-%s</string>
+    <string name="money">¥%.2f</string>
+    <string name="refund_money">退¥%.2f</string>
+    <string name="ticket_price">-¥%s</string>
+    <string name="order_detail_goods_num">× %s</string>
+    <string name="empty_data">未填写</string>
+    <!-- 消息中心 -->
+    <string name="order_msg">订单消息</string>
+    <string name="system_msg">系统消息</string>
+    <string name="no_message_lable">还没有消息哦</string>
+    <!-- 拍照选图 -->
+    <string name="take_picture">拍照</string>
+    <string name="choose_picture_from_local">从相机选择</string>
+
+    <!-- 设置 -->
+    <string name="setting_clear_cache">确定清除缓存吗？</string>
+    <string name="setting_is_exit">确定退出系统吗？</string>
+    <string name="firm_is_upload">是否确定上传头像？</string>
+    <string name="company_name">四川掌麦科技有限公司</string>
+    <string name="sevice_tel">客服电话 400-8815661</string>
+    <string name="service_tel">400-8815661</string>
+    <string name="abount_mark">Copyright © 2014 zhangmai</string>
+    <string name="wrongfun">扫描结果不合法</string>
+
+    <string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="unknown">女</string>
+
+</resources>

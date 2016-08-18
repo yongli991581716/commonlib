@@ -14,12 +14,16 @@ public class SlideItemView extends LinearLayout {
 
     // 最大允许滑动的距离
     private int mMaxDistance;
+    // 每次滑动的起始坐标
+    private int mFromX;
     // 视图停留的前一个x坐标
     private int mOriX;
     // 当前视图移动多远距离了
     private int mDistance;
     // 是否是滑动模式
     private boolean mIsSlide;
+    // 是否允许滚动
+    private boolean mIsScroll = true;
 
     public SlideItemView(Context context, AttributeSet attrs) {
         super(context, attrs);
@@ -36,11 +40,15 @@ public class SlideItemView extends LinearLayout {
     @SuppressLint("ClickableViewAccessibility")
     @Override
     public boolean onTouchEvent(MotionEvent event) {
+        if (!mIsScroll) {
+            return super.onTouchEvent(event);
+        }
         final int action = event.getAction();
         // CommonLog.i("action:%1$d %2$d -> %3$d", action, mOriX, (int) event.getX());
         switch (action) {
             case MotionEvent.ACTION_DOWN:
                 mOriX = (int) event.getX();
+                mFromX = mDistance;
                 break;
             case MotionEvent.ACTION_MOVE:
                 if (mOriX == 0) {
@@ -70,6 +78,11 @@ public class SlideItemView extends LinearLayout {
                 return true;
             default: // MotionEvent.ACTION_UP, MotionEvent.ACTION_CANCEL
                 if (mIsSlide) {
+                    boolean isHandled = false;
+                    // 防止点击时手指抖动，造成不好点击的效果
+                    if (Math.abs(mDistance - mFromX) > 20) {
+                        isHandled = true;
+                    }
                     if (mDistance != 0 || mDistance != mMaxDistance) {
                         int deltaX;
                         if (mDistance < mMaxDistance / 2) {// 滑动不足一半，松手后回弹回去
@@ -82,13 +95,29 @@ public class SlideItemView extends LinearLayout {
                         scrollBy(deltaX, 0);
                     }
                     mIsSlide = false;
-                    return true;
+                    if (isHandled) {
+                        return true;
+                    }
                 }
                 break;
         }
 
         // 否则直接交给父控件来处理onTouchEvent事件
         return super.onTouchEvent(event);
+    }
+
+    /**
+     * 设置滚动状态
+     * 
+     * @param isScroll true:允许滚动 false:不允许滚动
+     */
+    public void setScrollState(boolean isScroll) {
+        mIsScroll = isScroll;
+    }
+
+    public void reset(){
+        scrollBy(-mMaxDistance, 0);
+        mDistance = 0;
     }
 
     @Override

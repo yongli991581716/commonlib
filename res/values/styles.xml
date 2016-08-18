@@ -244,6 +244,12 @@
         <item name="android:layout_height">wrap_content</item>
     </style>
 
+    <!-- logo样式 -->
+    <style name="logo_style">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">90dp</item>
+    </style>
+
     <!-- key-value基本样式 -->
     <style name="key_value_basic">
         <item name="android:layout_width">wrap_content</item>

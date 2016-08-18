@@ -1,11 +1,7 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-apply plugin: 'com.jfrog.bintray'
-
-version = "1.0.1"
 
 dependencies {
-    //compile fileTree(include: '*.jar', dir: 'libs') 注释该行，目的是不加载android-support-v4.jar，以防止项目加载重复包（v7包加载时，会同步加载v4包），且此处包在其他项目会有引用，故保留不删除
+    //compile fileTree(include: '*.jar', dir: 'libs') 注释该行，目的是不加载android-support-v4.jar，以防止项目加载重复包（v7包加载时，会同步加载v4包），且此处包在其他项目会有引用，故保留不删�?
     compile files('libs/gson-2.5.jar')
     //注释掉umeng 是为了通过有仓库管理，始终更新最新umeng包， 在对应lib中保留此jar包，是因为其他项目会对此包进行引用
     //compile files('libs/umeng-analytics-v5.6.4.jar')
@@ -13,7 +9,6 @@ dependencies {
     compile 'com.alibaba:fastjson:1.2.12'
     compile project(':volley')
     compile project(':slidingmenu')
-
 }
 
 android {
@@ -45,71 +40,3 @@ android {
         release.setRoot('build-types/release')
     }
 }
-
-def siteUrl = 'https://github.com/yongli991581716/commonlib'      // 项目的主页
-def gitUrl = 'https://github.com/yongli991581716/commonlib.git'   // Git仓库的url
-group = "com.yongli991581716"         // Maven Group ID for the artifact，一般填你唯一的包名
-install {
-    repositories.mavenInstaller {
-        // This generates POM.xml with proper parameters
-        pom {
-            project {
-                packaging 'aar'
-                // Add your description here
-                name 'auto extand ImageView for Android.'     //项目描述
-                url siteUrl
-                // Set your license
-                licenses {
-                    license {
-                        name 'The Apache Software License, Version 2.0'
-                        url 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-                    }
-                }
-                developers {
-                    developer {
-                        id 'yongli991581716'        //填写的一些基本信息
-                        name 'yongli991581716'
-                        email 'liyong991581716@163.com'
-                    }
-                }
-                scm {
-                    connection gitUrl
-                    developerConnection gitUrl
-                    url siteUrl
-                }
-            }
-        }
-    }
-}
-task sourcesJar(type: Jar) {
-    from android.sourceSets.main.java.srcDirs
-    classifier = 'sources'
-}
-task javadoc(type: Javadoc) {
-    source = android.sourceSets.main.java.srcDirs
-    classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
-}
-task javadocJar(type: Jar, dependsOn: javadoc) {
-    classifier = 'javadoc'
-    from javadoc.destinationDir
-}
-artifacts {
-    archives javadocJar
-    archives sourcesJar
-}
-Properties properties = new Properties()
-properties.load(project.rootProject.file('local.properties').newDataInputStream())
-bintray {
-    user = properties.getProperty("bintray.user")
-    key = properties.getProperty("bintray.apikey")
-    configurations = ['archives']
-    pkg {
-        repo = "maven"
-        name = "commonlib"    //发布到JCenter上的项目名字
-        websiteUrl = siteUrl
-        vcsUrl = gitUrl
-        licenses = ["Apache-2.0"]
-        publish = true
-    }
-}
-

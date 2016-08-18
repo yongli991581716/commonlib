@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 文件操作工具包
+ * File opera tools
  * 
  * @author liux (http://my.oschina.net/liux)
  * @version 1.0
@@ -29,7 +29,7 @@ import java.util.List;
 public class FileUtils
 {
     /**
-     * 写文本文件 在Android系统中，文件保存在 /data/data/PACKAGE_NAME/files 目录下
+     * write text file in Android System锛孎ile save /data/data/PACKAGE_NAME/files directory
      * 
      * @param context
      * @param msg
@@ -53,7 +53,7 @@ public class FileUtils
     }
 
     /**
-     * 读取文本文件
+     * read text file
      * 
      * @param context
      * @param fileName
@@ -105,7 +105,7 @@ public class FileUtils
     }
 
     /**
-     * 向手机写图片
+     * to phone write image
      * 
      * @param buffer
      * @param folder
@@ -163,7 +163,7 @@ public class FileUtils
     }
 
     /**
-     * 根据文件绝对路径获取文件名
+     * as absolute write file
      * 
      * @param filePath
      * @return
@@ -176,7 +176,7 @@ public class FileUtils
     }
 
     /**
-     * 根据文件的绝对路径获取文件名但不包含扩展名
+     * as absolute get file path ,but uninclue expand name
      * 
      * @param filePath
      * @return
@@ -193,7 +193,7 @@ public class FileUtils
     }
 
     /**
-     * 获取文件扩展名
+     *get file expand name
      * 
      * @param fileName
      * @return
@@ -208,7 +208,7 @@ public class FileUtils
     }
 
     /**
-     * 获取文件大小
+     * get file size
      * 
      * @param filePath
      * @return
@@ -226,9 +226,9 @@ public class FileUtils
     }
 
     /**
-     * 获取文件大小
+     * get file size
      * 
-     * @param size 字节
+     * @param size byte
      * @return
      */
     public static String getFileSize(long size)
@@ -248,7 +248,7 @@ public class FileUtils
     }
 
     /**
-     * 转换文件大小
+     * change file size
      * 
      * @param fileS
      * @return B/KB/MB/GB
@@ -277,7 +277,7 @@ public class FileUtils
     }
 
     /**
-     * 获取目录文件大小
+     * get diretory file size
      * 
      * @param dir
      * @return
@@ -303,14 +303,14 @@ public class FileUtils
             else if (file.isDirectory())
             {
                 dirSize += file.length();
-                dirSize += getDirSize(file); // 递归调用继续统计
+                dirSize += getDirSize(file); // 閫掑綊璋冪敤缁х画缁熻
             }
         }
         return dirSize;
     }
 
     /**
-     * 获取目录文件个数
+     * get directory file num
      * 
      * @param f
      * @return
@@ -324,7 +324,7 @@ public class FileUtils
         {
             if (file.isDirectory())
             {
-                count = count + getFileList(file);// 递归
+                count = count + getFileList(file);// 閫掑綊
                 count--;
             }
         }
@@ -332,10 +332,10 @@ public class FileUtils
     }
 
     /**
-     * 列出root目录下所有文件
+     * root all files
      * 
      * @param path
-     * @return 绝对路径
+     * @return absolute path
      */
     public static List<File> listFile(String root)
     {
@@ -370,7 +370,7 @@ public class FileUtils
     }
 
     /**
-     * 检查文件是否存在
+     * validate file exists
      * 
      * @param name
      * @return
@@ -392,7 +392,7 @@ public class FileUtils
     }
 
     /**
-     * 检查路径是否存在
+     * validate file path exists
      * 
      * @param path
      * @return
@@ -403,9 +403,9 @@ public class FileUtils
     }
 
     /**
-     * 计算SD卡的剩余空间
+     * caculate SD expair space
      * 
-     * @return 返回-1，说明没有安装sd卡
+     * @return return -1锛宯ot sd
      */
     public static long getFreeDiskSpace()
     {
@@ -435,7 +435,7 @@ public class FileUtils
     }
 
     /**
-     * 新建目录
+     * crete directory
      * 
      * @param directoryName
      * @return
@@ -456,7 +456,7 @@ public class FileUtils
     }
 
     /**
-     * 检查是否安装SD卡
+     * valiedate install
      * 
      * @return
      */
@@ -474,7 +474,7 @@ public class FileUtils
     }
 
     /**
-     * 删除目录(包括：目录里的所有文件)
+     * delete directory
      * 
      * @param fileName
      * @return
@@ -504,7 +504,6 @@ public class FileUtils
                         deletedFile.delete();
                     }
                     newPath.delete();
-                    Log.i("DirectoryManager deleteDirectory", fileName);
                     status = true;
                 } catch (Exception e)
                 {
@@ -522,7 +521,7 @@ public class FileUtils
     }
 
     /**
-     * 删除指定文件以及包含的所有子文件
+     * delete file special
      * 
      * @param file
      */
@@ -534,13 +533,13 @@ public class FileUtils
             for (File subFile : subFiles) {
                 deleteDirectory(subFile);
             }
-            // 避免删除目录再次缓存找不到文件夹导致缓存不成功
+            // 閬垮厤鍒犻櫎鐩綍鍐嶆缂撳瓨鎵句笉鍒版枃浠跺す瀵艰嚧缂撳瓨涓嶆垚鍔�
             // file.delete();
         }
     }
 
     /**
-     * 删除文件
+     * delete file
      * 
      * @param fileName
      * @return
@@ -560,7 +559,7 @@ public class FileUtils
             {
                 try
                 {
-                    Log.i("DirectoryManager deleteFile", fileName);
+
                     newPath.delete();
                     status = true;
                 } catch (SecurityException se)
@@ -578,7 +577,7 @@ public class FileUtils
     }
 
     /**
-     * 删除空目录 返回 0代表成功 ,1 代表没有删除权限, 2代表不是空目录,3 代表未知错误
+     * delete directory return 0 succssful ,1 not delte permission, 2 not empty dirctory,3 unkown errors
      * 
      * @return
      */
@@ -601,7 +600,7 @@ public class FileUtils
     }
 
     /**
-     * 重命名
+     * rename
      * 
      * @param oldName
      * @param newName
@@ -614,7 +613,7 @@ public class FileUtils
     }
 
     /**
-     * 删除文件
+     * delete file
      * 
      * @param filePath
      */
@@ -625,7 +624,6 @@ public class FileUtils
         checker.checkDelete(filePath);
         if (f.isFile())
         {
-            Log.i("DirectoryManager deleteFile", filePath);
             f.delete();
             return true;
         }
@@ -633,7 +631,7 @@ public class FileUtils
     }
 
     /**
-     * 获取SD卡的根目录，末尾带\
+     * get sdk root diretory
      * 
      * @return
      */
@@ -644,10 +642,10 @@ public class FileUtils
     }
 
     /**
-     * 列出root目录下所有子目录
+     * list root all directory
      * 
      * @param path
-     * @return 绝对路径
+     * @return
      */
     public static List<String> listPath(String root)
     {
@@ -674,7 +672,7 @@ public class FileUtils
     }
 
     /**
-     * 创建目录
+     * create directory
      * 
      * @param path
      */
@@ -696,7 +694,7 @@ public class FileUtils
     }
 
     /**
-     * 截取路径名
+     * sub path name
      * 
      * @return
      */
@@ -708,10 +706,7 @@ public class FileUtils
     }
 
     /**
-     * 用于对象序列化到缓存
-     * 
-     * @param file 缓存到的目标文件
-     * @param obj 要缓存的对象
+     * seirials
      * @return
      */
     public static boolean writeObjectToFile(File file, Object obj) {
@@ -728,9 +723,9 @@ public class FileUtils
     }
 
     /**
-     * 将被序列化到缓存的对象反序列化到内存
+     *seirials
      * 
-     * @param file 读取缓存的目标文件
+     * @param file
      * @return
      */
     public static Object readObjectFromFile(File file) {
